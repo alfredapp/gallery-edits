@@ -1,0 +1,50 @@
+name: Edit Creator
+description: Suggest edit to creator page
+title: "Suggest Edit: [creator]"
+labels: ["edit", "creator"]
+assignees:
+  - vitorgalvao
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill out the fields which need adjusting. Leave the others unedited.
+  - type: input
+    id: gallery-url
+    attributes:
+      label: Gallery URL
+      placeholder: https://alfred.app/workflows/creator/
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Name
+      placeholder: Alfred Team
+  - type: input
+    attributes:
+      label: Website
+      placeholder: https://alfredapp.com/
+  - type: input
+    attributes:
+      label: Alfred Forum
+      placeholder: https://www.alfredforum.com/profile/nnn-username/
+  - type: input
+    attributes:
+      label: GitHub
+      placeholder: https://github.com/alfredapp/
+  - type: input
+    attributes:
+      label: Twitter
+      placeholder: https://twitter.com/alfredapp/
+  - type: input
+    attributes:
+      label: Mastodon
+      placeholder: https://mastodon.social/@alfredapp/
+  - type: textarea
+    attributes:
+      label: Icon
+      placeholder: Drop icon on the text area. Must be at least 256x256 px.
+  - type: textarea
+    attributes:
+      label: Notes
+      placeholder: Details not covered by the other fields.

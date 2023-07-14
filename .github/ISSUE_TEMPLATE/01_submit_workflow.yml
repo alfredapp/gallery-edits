@@ -1,0 +1,73 @@
+name: Submit Workflow
+description: Submit a workflow for inclusion in the Gallery
+title: "Submit Workflow: [workflow name]"
+labels: ["new", "workflow"]
+assignees:
+  - vitorgalvao
+body:
+  - type: checkboxes
+    attributes:
+      label: "Preflight"
+      description: To be considered for the Alfred Gallery, please [share your workflow in the Alfred forum](https://www.alfredforum.com/forum/3-share-your-workflows/).
+      options:
+        - label: The Alfred team has invited me to submit this workflow.
+          required: true
+  - type: checkboxes
+    attributes:
+      label: "The submitted workflow:"
+      description: Click the &#9432; icons for more information.
+      options:
+        - label: Was authored by me. [&#9432;](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Submissions.md#authorship)
+          required: true
+        - label: Uses [Workflow Configuration](https://www.alfredapp.com/help/workflows/user-configuration/) or has no user-facing settings. [&#9432;](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Submissions.md#configuration)
+          required: true
+        - label: Does not have an auto-updater. [&#9432;](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Submissions.md#auto-updating)
+          required: true
+        - label: Does not contain unsigned and non-notarised binaries. [&#9432;](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Submissions.md#signed-binaries)
+          required: true
+        - label: Does not download extra software. [&#9432;](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Submissions.md#downloading-software)
+          required: true
+        - label: Uses keywords with more than one character. [&#9432;](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Submissions.md#short-keywords)
+          required: true
+        - label: Has a descriptive About section. [&#9432;](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Submissions.md#about-section)
+          required: true
+        - label: Has an icon of at least 256x256 px. [&#9432;](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Submissions.md#icon-size)
+          required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## Workflow Details
+  - type: input
+    attributes:
+      label: Homepage
+      description: The link where the workflow is hosted. E.g. a GitHub repository.
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Alfred Forum page
+      description: If you shared the workflow [on the forum](https://www.alfredforum.com/forum/3-share-your-workflows/).
+  - type: textarea
+    attributes:
+      label: Gallery page content
+      description: |
+        What users will see on the workflow’s Gallery page. Follow the [Gallery Style Guide](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Page%20Style%20Guide.md).
+        Screenshots can be dropped into the text area.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Test data
+      description: |
+        Provide any data necessary for review and testing.
+        For example, if the workflow searches local PDFs or interacts with an app’s library, provide a handful of examples (5–15) which can be used/imported directly.
+  - type: textarea
+    attributes:
+      label: Homebrew dependencies
+      description: Alfred [can manage homebrew dependencies](https://www.alfredapp.com/help/kb/dependencies/). List them here if your workflow has any, one per line. They must all be from [the main Homebrew tap](https://github.com/Homebrew/homebrew-core).
+  - type: textarea
+    attributes:
+      label: Bundled libraries
+      description: |
+        If the workflow ships with any libraries, e.g. Python packages, list them here.
+        Only the original packages are necessary, not their dependencies.

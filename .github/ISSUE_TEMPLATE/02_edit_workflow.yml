@@ -1,0 +1,38 @@
+name: Edit Workflow
+description: Suggest edit to workflow page
+title: "Suggest Edit: [creator/workflow]"
+labels: ["edit", "workflow"]
+assignees:
+  - vitorgalvao
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill out the fields which need adjusting. Leave the others unedited.
+  - type: input
+    id: gallery-url
+    attributes:
+      label: Gallery URL
+      placeholder: https://alfred.app/workflows/creator/workflow/
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Website
+      placeholder: https://github.com/alfredapp/repository/
+  - type: input
+    attributes:
+      label: Report Bug
+      placeholder: https://github.com/alfredapp/repository/issues/
+  - type: input
+    attributes:
+      label: Forum
+      placeholder: https://www.alfredforum.com/topic/nnnn-name
+  - type: textarea
+    attributes:
+      label: About
+      placeholder: Suggestions related to the Setup and Usage sections.
+  - type: textarea
+    attributes:
+      label: Notes
+      placeholder: Details not covered by the other fields.
