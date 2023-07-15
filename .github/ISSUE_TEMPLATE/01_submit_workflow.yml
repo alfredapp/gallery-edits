@@ -55,6 +55,10 @@ body:
         Screenshots can be dropped into the text area.
     validations:
       required: true
+  - type: input
+    attributes:
+      label: Tags
+      description: Short list of tag suggestions to identify the workflow.
   - type: textarea
     attributes:
       label: Test data
