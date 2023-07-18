@@ -59,9 +59,9 @@ Continue with an image directly illustrating the text. See [Taking Good Screensh
 
 ## Modifiers
 
-List modifiers below the image in the format `KEY: ACTION`. Use ↩&#xFE0E;⌘⌥⌃⇧ for the keys, surrounding each character in the `<kbd>` HTML tag.
+List modifiers below the image in the format `* KEY: ACTION`. Use ↩&#xFE0E;⌘⌥⌃⇧ for the keys, surrounding each character in the `<kbd>` HTML tag.
 
-For previewing with Quick Look, use `<kbd>⌘</kbd><kbd>Y</kbd> (or tap <kbd>⇧</kbd>): Quick Look SOMETHING`.
+For previewing with Quick Look, use `* <kbd>⌘</kbd><kbd>Y</kbd> (or tap <kbd>⇧</kbd>): Quick Look SOMETHING`.
 
 [alfredapp/shortcuts](https://alfred.app/workflows/alfredapp/shortcuts/)
 
