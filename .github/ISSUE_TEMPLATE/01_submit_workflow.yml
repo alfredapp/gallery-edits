@@ -63,8 +63,8 @@ body:
     attributes:
       label: Test data
       description: |
-        Provide any data necessary for review and testing.
-        For example, if the workflow searches local PDFs or interacts with an app’s library, provide a handful of examples (5–15) which can be used/imported directly.
+        Provide any data necessary for review and testing. Zip it beforehand if it’s a format GitHub does not support.
+        For example, if the workflow interacts with an app’s library, provide one with a handful of examples (5–15) which can be used/imported directly.
   - type: textarea
     attributes:
       label: Homebrew dependencies
