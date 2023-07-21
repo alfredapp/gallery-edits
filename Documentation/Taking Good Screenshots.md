@@ -4,7 +4,7 @@ Workflow instructions in the Alfred Gallery must include images to complement th
 
 macOS can take screenshots of individual windows, preserving their shadow against a transparent background. Press <kbd>⌘</kbd><kbd>⇧</kbd><kbd>4</kbd> and your cursor will turn into a crosshair <img src="images/taking-screenshots/icon-crosshair.png" width="24">. Now press <kbd>space</kbd> and it will change into a camera icon <img src="images/taking-screenshots/icon-camera.png" width="24">. Move it over a window and it will get a blue overlay. Click to take the screenshot.
 
-https://github.com/alfredapp/gallery-edits/assets/1699443/2378b5f0-a333-403f-87fc-df6a90d13b52
+https://github.com/alfredapp/gallery-edits/assets/1699443/710e0cc9-018b-476c-83a4-a8665dea0371
 
 ## Unsuitable Examples
 
