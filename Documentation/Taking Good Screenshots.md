@@ -15,7 +15,7 @@ https://github.com/alfredapp/gallery-edits/assets/1699443/710e0cc9-018b-476c-83a
 The above screenshots have several issues:
 
 * The wallpaper is visible, making the screenshot look out of place when embedded on a web page.
-* Entries from other workflows and macOS are distracting and make it hard to discern what the workflow does.
+* Entries from other workflows are distracting and make it hard to discern what the workflow does.
 * Data is disorganised and looks fake, making it difficult to understand its purpose.
 
 ## Good Examples
