@@ -2,6 +2,10 @@
 
 Expanded information for the [Workflow Submission form](https://github.com/alfredapp/gallery-edits/issues/new?template=01_submit_workflow.yml) checkboxes.
 
+### Authorship
+
+Workflows must be submitted by their authors.
+
 ### Configuration
 
 If the workflow has user-facing settings, they must use [Workflow Configuration](https://www.alfredapp.com/help/workflows/user-configuration/) functionality and *not* Workflow Environment Variables.
