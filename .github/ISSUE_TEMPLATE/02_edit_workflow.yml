@@ -22,10 +22,6 @@ body:
       placeholder: https://github.com/alfredapp/repository/
   - type: input
     attributes:
-      label: Report Bug
-      placeholder: https://github.com/alfredapp/repository/issues/
-  - type: input
-    attributes:
       label: Forum
       placeholder: https://www.alfredforum.com/topic/nnnn-name
   - type: textarea
