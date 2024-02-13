@@ -59,17 +59,17 @@ Continue with an image directly illustrating the text. See [Taking Good Screensh
 
 ## Modifiers
 
-List modifiers below the image in the format `* KEY: ACTION`. Use ↩&#xFE0E;⌘⌥⌃⇧ for the keys, surrounding each character in the `<kbd>` HTML tag.
+List modifiers below the image in the format `* KEYS ACTION`. Use ↩&#xFE0E;⌘⌥⌃⇧ for the keys, surrounding each character in the `<kbd>` HTML tag.
 
-For previewing with Quick Look, use `* <kbd>⌘</kbd><kbd>Y</kbd> (or tap <kbd>⇧</kbd>): Quick Look SOMETHING`.
+For previewing with Quick Look, use `* <kbd>⌘</kbd><kbd>Y</kbd> (or tap <kbd>⇧</kbd>) Quick Look SOMETHING`.
 
 [alfredapp/shortcuts](https://alfred.app/workflows/alfredapp/shortcuts/)
 
 <img src="images/style-guide/modifiers-shortcuts.png" width="820">
 
-[vitor/mtg-card-search](https://alfred.app/workflows/vitor/mtg-card-search/)
+[alfredapp/alfred-gallery](https://alfred.app/workflows/alfredapp/alfred-gallery/)
 
-<img src="images/style-guide/modifiers-mtg-card-search.png" width="820">
+<img src="images/style-guide/modifiers-alfred-gallery.png" width="820">
 
 ## Alternative Invocations
 
@@ -93,15 +93,11 @@ Group related keywords on the same sentence.
 
 ## Many Keywords
 
-Make a list of items of the form <code>* `INPUT`: ACTION</code> when there are a large number of keywords.
+Make a list of items of the form <code>* `INPUT` ACTION</code> when there are a large number of keywords.
 
 [vitor/paper-formats](https://alfred.app/workflows/vitor/paper-formats/)
 
 <img src="images/style-guide/many-keywords-paper-formats.png" width="820">
-
-[gingerbeardman/fsnotes](https://alfred.app/workflows/gingerbeardman/fsnotes/)
-
-<img src="images/style-guide/many-keywords-fsnotes.png" width="820">
 
 ## Hotkeys
 
