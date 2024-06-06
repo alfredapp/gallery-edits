@@ -8,7 +8,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Fill out the fields which need adjusting. Leave the others unedited.
+        > [!IMPORTANT]
+        > The `Edit Page` link is to report inaccuracies *in the Gallery page itself*.
+        > For help with a workflow, use the `Website` link to contact its creator.
   - type: input
     id: gallery-url
     attributes:
