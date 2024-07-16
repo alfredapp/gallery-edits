@@ -61,12 +61,6 @@ body:
       description: Short list of tag suggestions to identify the workflow.
   - type: textarea
     attributes:
-      label: Test data
-      description: |
-        Provide data necessary for review and testing, if applicable. Zip it beforehand if it’s a format GitHub does not support.
-        For example, if the workflow interacts with an app’s library, provide one with a handful of examples (5–15) which can be used/imported directly.
-  - type: textarea
-    attributes:
       label: Homebrew dependencies
       description: Alfred [can manage homebrew dependencies](https://www.alfredapp.com/help/kb/dependencies/). List them here if your workflow has any, one per line. They must all be from [the main Homebrew tap](https://github.com/Homebrew/homebrew-core).
   - type: textarea
