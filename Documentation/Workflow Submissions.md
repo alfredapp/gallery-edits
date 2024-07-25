@@ -30,7 +30,7 @@ Keywords which are too short can get lost amongst user results or conflict with 
 
 ### About Section
 
-Workflows should have instructions in the [About](https://www.alfredapp.com/help/workflows/advanced/sharing-workflows/#about), to help new users.
+Workflows should have instructions in the [About](https://www.alfredapp.com/help/workflows/advanced/sharing-workflows/#about), to help new users. See the [Gallery Style Guide](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Page%20Style%20Guide.md) to learn the format used in Gallery pages.
 
 ### Icon Size
 
