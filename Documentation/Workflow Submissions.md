@@ -12,7 +12,7 @@ If the workflow has user-facing settings, they must use [Workflow Configuration]
 
 ### Auto-updating
 
- Workflows available in the Gallery are updatable from Alfred. Workflows must not update themselves to not cause conflicts.
+Workflows available in the Gallery are updatable from Alfred. Workflows must not update themselves to not cause conflicts.
 
 ### Signed Binaries
 
