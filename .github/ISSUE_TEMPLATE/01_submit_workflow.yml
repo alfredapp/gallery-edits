@@ -51,7 +51,7 @@ body:
     attributes:
       label: Gallery page content
       description: |
-        What users will see on the workflow’s Gallery page. Follow the [Gallery Style Guide](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Page%20Style%20Guide.md).
+        What users will see on the workflow’s Gallery page. Follow the [Gallery Style Guide](https://alfred.app/submit/styleguide/).
         Screenshots can be dropped into the text area.
     validations:
       required: true
