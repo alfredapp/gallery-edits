@@ -1,4 +1,4 @@
-name: Submit Workflow
+name: Submit New Workflow
 description: Submit a workflow for inclusion in the Gallery
 title: "Submit Workflow: [workflow name]"
 labels: ["new", "workflow"]
@@ -8,7 +8,7 @@ body:
   - type: checkboxes
     attributes:
       label: "Preflight"
-      description: To be considered for the Alfred Gallery, please [share your workflow in the Alfred forum](https://www.alfredforum.com/forum/3-share-your-workflows/).
+      description: To be considered for the Alfred Gallery, [share your workflow in the Alfred forum](https://www.alfredforum.com/forum/3-share-your-workflows/). Please do not submit this form without being asked.
       options:
         - label: The Alfred team has invited me to submit this workflow.
           required: true
@@ -40,13 +40,15 @@ body:
   - type: input
     attributes:
       label: Homepage
-      description: The link where the workflow is hosted. E.g. a GitHub repository.
+      description: Link to the page where the workflow is hosted. E.g. a GitHub repository.
+      placeholder: https://github.com/username/repo/
     validations:
       required: true
   - type: input
     attributes:
       label: Alfred Forum page
       description: Link to the workflow page [on the forum](https://www.alfredforum.com/forum/3-share-your-workflows/).
+      placeholder: https://www.alfredforum.com/topic/nnnn-name
   - type: textarea
     attributes:
       label: Gallery page content
@@ -59,6 +61,7 @@ body:
     attributes:
       label: Tags
       description: Short list of tag suggestions to identify the workflow.
+      placeholder: markdown, notes, text-manipulation, …
   - type: textarea
     attributes:
       label: Homebrew dependencies

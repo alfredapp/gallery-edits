@@ -1,0 +1,49 @@
+name: Update Existing Workflow
+description: Submit update to workflow in the Gallery
+title: "Update Workflow: [creator/workflow]"
+labels: ["edit", "workflow"]
+assignees:
+  - vitorgalvao
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > [!IMPORTANT]
+        > If you introduced changes or new features, be sure to also [update the README and images for your workflow](https://github.com/alfredapp/gallery-edits/tree/main/workflows).
+  - type: input
+    id: gallery_url
+    attributes:
+      label: Gallery URL
+      placeholder: https://alfred.app/workflows/creator/workflow/
+    validations:
+      required: true
+  - type: input
+    id: new_version
+    attributes:
+      label: New Version
+      placeholder: "1.2"
+    validations:
+      required: true
+  - type: textarea
+    id: changelog
+    attributes:
+      label: Changelog
+      description: Simple markdown list of changes.
+      placeholder: |
+        * Fix bug with…
+        * New feature to…
+        * Another change…
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Website
+      placeholder: https://github.com/username/repo/
+  - type: input
+    attributes:
+      label: Forum
+      placeholder: https://www.alfredforum.com/topic/nnnn-name
+  - type: textarea
+    attributes:
+      label: Notes
+      placeholder: Details not covered by the other fields.
