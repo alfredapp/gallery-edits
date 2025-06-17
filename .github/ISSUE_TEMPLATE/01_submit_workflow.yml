@@ -1,4 +1,4 @@
-name: Submit Workflow
+name: Submit New Workflow
 description: Submit a workflow for inclusion in the Gallery
 title: "Submit Workflow: [workflow name]"
 labels: ["new", "workflow"]
@@ -8,30 +8,26 @@ body:
   - type: checkboxes
     attributes:
       label: "Preflight"
-      description: To be considered for the Alfred Gallery, please [share your workflow in the Alfred forum](https://www.alfredforum.com/forum/3-share-your-workflows/).
+      description: Click the `▸` icons to expand details.
       options:
-        - label: The Alfred team has invited me to submit this workflow.
+        - label: <details><summary>The Alfred team has invited me to submit this workflow.</summary>Only submit this form if explicitely asked. To be considered for the Alfred Gallery, <a href="https://www.alfredforum.com/forum/3-share-your-workflows/">share your workflow on the Alfred forum</a>.</details>
+          required: true
+        - label: <details><summary>I have submitted a separate pull request with workflow instructions following the <a href="https://alfred.app/submit/styleguide/">Style Guide</a>.</summary>Submit a pull request adding <code>your-name/workflow-name</code> under the <code><a href="https://github.com/alfredapp/gallery-edits/tree/main/workflows/">/workflows/</a></code> folder. Inside, create a <code>readme.md</code> file for the instructions and an <code>images</code> folder for the screenshots. See <a href="https://github.com/alfredapp/gallery-edits/tree/main/workflows/alfredapp/disk-usage/">alfredapp/disk-usage</a> for an example.</details>
           required: true
   - type: checkboxes
     attributes:
       label: "The submitted workflow:"
-      description: Click the &#9432; icons for more information.
+      description: Click the `▸` icons to expand details.
       options:
-        - label: Was authored by me. [&#9432;](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Submissions.md#authorship)
+        - label: <details><summary>Uses sensible keywords with several characters.</summary>Keywords which are too short can get lost amongst results or conflict with other workflows. While there are exceptions, workflow keywords (including in Script Filters, File Filters, or similar) should in general be at least three characters long. Ideally they will also be <a href="https://www.alfredapp.com/help/workflows/advanced/keywords/#configurable">user-configurable</a>.</details>
           required: true
-        - label: Uses [Workflow Configuration](https://www.alfredapp.com/help/workflows/user-configuration/) or has no user-facing settings. [&#9432;](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Submissions.md#configuration)
+        - label: <details><summary>Has an icon of at least 256x256 px.</summary>A minimum main icon size of 256x256 px is required to guarantee image quality.</details>
           required: true
-        - label: Does not have an auto-updater. [&#9432;](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Submissions.md#auto-updating)
+        - label: <details><summary>Does not use an auto-updater.</summary>Workflows available in the Gallery are updatable from Alfred. Workflows must never update themselves to not cause conflicts.</details>
           required: true
-        - label: Does not contain unsigned and non-notarised binaries. [&#9432;](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Submissions.md#signed-binaries)
+        - label: <details><summary>Does not download extra software.</summary>Every bit of executable code must be contained in the workflow. The workflow must never install extra software itself, including (but not limited to) running <code>pip install</code>, <code>gem install</code>, <code>brew install</code>, or <code>curl</code>ing a binary. Bundling libraries with the workflow is accepted. <a href="https://brew.sh/">Homebrew</a> dependencies must be <a href="https://www.alfredapp.com/help/kb/dependencies/">handled by Alfred</a>.</details>
           required: true
-        - label: Does not download extra software. [&#9432;](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Submissions.md#downloading-software)
-          required: true
-        - label: Uses keywords with more than one character. [&#9432;](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Submissions.md#short-keywords)
-          required: true
-        - label: Has a descriptive About section. [&#9432;](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Submissions.md#about-section)
-          required: true
-        - label: Has an icon of at least 256x256 px. [&#9432;](https://github.com/alfredapp/gallery-edits/blob/main/Documentation/Workflow%20Submissions.md#icon-size)
+        - label: <details><summary>Does not contain unsigned and non-notarised binaries.</summary>Workflows must not have unsigned and non-notarised binaries, or otherwise try to bypass this macOS security feature (e.g. by removing quarantine). Scripts don’t fall into this category.</details>
           required: true
   - type: markdown
     attributes:
@@ -40,32 +36,23 @@ body:
   - type: input
     attributes:
       label: Homepage
-      description: The link where the workflow is hosted. E.g. a GitHub repository.
+      description: Link to the page where the workflow is hosted. E.g. a GitHub repository.
+      placeholder: https://github.com/username/repo/
     validations:
       required: true
   - type: input
     attributes:
       label: Alfred Forum page
       description: Link to the workflow page [on the forum](https://www.alfredforum.com/forum/3-share-your-workflows/).
-  - type: textarea
-    attributes:
-      label: Gallery page content
-      description: |
-        What users will see on the workflow’s Gallery page. Follow the [Gallery Style Guide](https://alfred.app/submit/styleguide/).
-        Screenshots can be dropped into the text area.
+      placeholder: https://www.alfredforum.com/topic/nnnn-name
     validations:
       required: true
   - type: input
     attributes:
       label: Tags
       description: Short list of tag suggestions to identify the workflow.
+      placeholder: markdown, notes, text-manipulation, …
   - type: textarea
     attributes:
       label: Homebrew dependencies
       description: Alfred [can manage homebrew dependencies](https://www.alfredapp.com/help/kb/dependencies/). List them here if your workflow has any, one per line. They must all be from [the main Homebrew tap](https://github.com/Homebrew/homebrew-core).
-  - type: textarea
-    attributes:
-      label: Bundled libraries
-      description: |
-        If the workflow ships with any libraries, e.g. Python packages, list them here.
-        Only the original packages are necessary, not their dependencies.
