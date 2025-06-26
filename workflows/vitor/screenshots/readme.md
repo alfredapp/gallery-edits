@@ -11,6 +11,7 @@ Search screenshots via the `screenshots` keyword.
 * <kbd>↩</kbd> View in Alfred.
 * <kbd>⌘</kbd><kbd>↩</kbd> Copy to clipboard.
 * <kbd>⌥</kbd><kbd>↩</kbd> Reveal in Finder.
+* <kbd>⌃</kbd><kbd>↩</kbd> Rerun search with Optical Character Recognition on images.
 * <kbd>⇧</kbd><kbd>↩</kbd> Upload to [Imgur](https://imgur.com).
 
 ![Showing single image](images/imagepreview.png)
