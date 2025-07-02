@@ -9,6 +9,6 @@ Type the configured `Backup Keyword` to backup all you tabs into an HTML file. S
 ![arc_browser_companion_backup_keyword](images/backup_keyword.png)
 
 
-Use the <kbd>⌘</kbd><kbd>⌃</kbd><kbd>W</kbd> keyword (also configurable) to show a count open tabs as a quit confirmation.
+Use the <kbd>⌘</kbd><kbd>⌃</kbd><kbd>W</kbd> hotkey (also configurable) to show a count open tabs as a quit confirmation.
 
 ![arc_browser_companion_readme3](images/quit_confirmation.png)
