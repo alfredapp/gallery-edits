@@ -1,14 +1,13 @@
 ## Usage
 
-Type the configured `Search Keyword` or press <kbd>⌘</kbd><kbd>⇧</kbd><kbd>⌃</kbd><kbd>A</kbd> (configurable) to search for tabs and Spaces. Press Enter on the result to switch to the tab/Space. 
+Search Arc browser tabs and spaces via the `arctabs` keyword. Press <kbd>↩</kbd> to switch to it.
 
-![arc_browser_companion_backup_keyword](images/arc_browser_companion_readme3.png)
+![Searching Arc browser tabs](images/arc_browser_companion_readme3.png)
 
-Type the configured `Backup Keyword` to backup all you tabs into an HTML file. Saved to directory configured with the `Back Up Tabs To` keyword.
+Back up your tabs to an HTML file with the `backuparc` keyword. Set up where the file is saved to in the Workflow’s Configuration.
 
-![arc_browser_companion_backup_keyword](images/backup_keyword.png)
+![Backing up tabs](images/backup_keyword.png)
 
+Configure the Hotkey as an alternative to close Arc with a confirmation prompt.
 
-Use the <kbd>⌘</kbd><kbd>⌃</kbd><kbd>W</kbd> hotkey (also configurable) to show a count open tabs as a quit confirmation.
-
-![arc_browser_companion_readme3](images/quit_confirmation.png)
+![Dialog for confirming closing Arc](images/quit_confirmation.png)
