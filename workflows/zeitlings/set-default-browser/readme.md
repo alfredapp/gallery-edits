@@ -4,6 +4,10 @@ Set the default web browser via the `sdb` keyword. The macOS browser change conf
 
 ![Showing different web browsers](images/sbd.png)
 
+* <kbd>⌘</kbd> Set as default browser.
+* <kbd>⌘</kbd><kbd>⇧</kbd><kbd>↩</kbd> Blacklist the application.
+* <kbd>⌃</kbd> View the file path of the application.
+
 ![Confirmation dialog](images/dialogconfirmation.png)
 
 See the bundle identifier of an app via the Universal Action.
