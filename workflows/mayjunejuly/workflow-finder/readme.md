@@ -1,9 +1,10 @@
 ## Usage
 
-Find your installed workflows via the `wflow` keyword. Press <kbd>↩</kbd> to edit it in Alfred.  
+Search your installed workflows via the `wflow` keyword.
 
 ![List all installed workflows](images/showcase_1.png)
 
+* <kbd>↩</kbd> Edit in Alfred.
 * <kbd>⌘</kbd><kbd>↩</kbd> Open the configuration page. 
 * <kbd>⌘</kbd><kbd>⇧</kbd><kbd>↩</kbd> Copy the bundle ID.
 * <kbd>⇧</kbd><kbd>↩</kbd> Open the workflow folder.
