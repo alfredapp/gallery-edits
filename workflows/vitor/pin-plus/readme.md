@@ -14,7 +14,7 @@ Search all bookmarks via the `pin` keyword or only the unread ones with `pun`. A
 * <kbd>⌘</kbd><kbd>↩</kbd> Copy URL.
 * <kbd>⌥</kbd> View Tags.
 * <kbd>⌃</kbd> View Description.
-* <kbd>⇧</kbd><kbd>↩</kbd> Open in Pinboard’s Website.
+* <kbd>⇧</kbd><kbd>↩</kbd> Search in Pinboard’s Website.
 * <kbd>⌘</kbd><kbd>⌥</kbd><kbd>⌃</kbd><kbd>↩</kbd> Force cache update.
 
 Configure the Hotkeys as a shortcut to add bookmarks, add the current browser tab as an unread bookmark, or open a random unread bookmark.
