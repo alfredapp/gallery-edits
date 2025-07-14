@@ -2,9 +2,9 @@
 
 Convert text to title case via the `titlecase` keyword.
 
-* <kbd>↩︎</kbd> Convert text and copy to clipboard.
-
 ![Convert to title case with keyword](images/usage-screenshot.png)
+
+* <kbd>↩︎</kbd> Convert text and copy to clipboard.
 
 Leave the argument empty to convert clipboard content.
 
