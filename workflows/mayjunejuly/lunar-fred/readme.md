@@ -1,6 +1,6 @@
 ## Setup
 
-Install Lunar CLI by right-clicking Lunar’s menu bar icon and choose Advanced Features → Install CLI integration.
+Install the Lunar CLI by right-clicking Lunar’s menu bar icon and choosing Advanced Features → Install CLI integration.
 
 ![Install Lunar CLI](images/install-lunar-cli.png)
 
