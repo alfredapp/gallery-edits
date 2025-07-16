@@ -29,6 +29,7 @@ body:
     attributes:
       label: Changelog
       description: Simple markdown list of changes.
+      render: changelog
       placeholder: |
         * Fix bug with…
         * New feature to…
