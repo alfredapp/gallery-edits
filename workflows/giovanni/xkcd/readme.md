@@ -5,7 +5,7 @@ List and search [xkcd](https://xkcd.com/) comics via the `xkcd` keyword. `❤️
 ![Searching XKCD comics](images/search.png)
 
 * <kbd>↩</kbd> View comic in Alfred and mark as read.
-* <kbd>⌘</kbd><kbd>↩</kbd> Open on XKCD website.
+* <kbd>⌘</kbd><kbd>↩</kbd> Open on xkcd website.
 * <kbd>⌥</kbd><kbd>↩</kbd> Open on [Explain xkcd](https://www.explainxkcd.com/).
 * <kbd>⇧</kbd><kbd>↩</kbd> Copy image to clipboard.
 * <kbd>⌃</kbd><kbd>↩</kbd> Add or remove from favorites.
