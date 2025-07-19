@@ -23,3 +23,5 @@ Configure the Hotkey for faster triggering.
 - <kbd>⇧</kbd><kbd>↩️</kbd> show more details.
 
 ![show details](images/details.png)
+
+
