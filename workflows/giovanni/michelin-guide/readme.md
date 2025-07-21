@@ -10,6 +10,10 @@ Search is case-sensitive when it includes uppercase letters. Awards can be searc
 
 List and search all your favorite and visited restaurants via the `!mf` and `!mv` keywords.
 
+![Showing favorites](images/favorites.png)
+
+![Showing visited](images/visited.png)
+
 Configure the Hotkey for faster triggering.
 
 ## Once a restaurant is identified:
