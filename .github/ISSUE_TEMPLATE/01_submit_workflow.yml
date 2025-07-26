@@ -10,7 +10,7 @@ body:
       label: "Preflight"
       description: Click the `▸` icons to expand details.
       options:
-        - label: <details><summary>The Alfred team has invited me to submit this workflow.</summary>Only submit this form if explicitely asked. To be considered for the Alfred Gallery, <a href="https://www.alfredforum.com/forum/3-share-your-workflows/">share your workflow on the Alfred forum</a>.</details>
+        - label: <details><summary>The Alfred team has invited me to submit this workflow.</summary>Only submit this form if explicitly asked. To be considered for the Alfred Gallery, <a href="https://www.alfredforum.com/forum/3-share-your-workflows/">share your workflow on the Alfred forum</a>.</details>
           required: true
         - label: <details><summary>I have submitted a separate pull request with workflow instructions following the <a href="https://alfred.app/submit/styleguide/">Style Guide</a>.</summary>Submit a pull request adding <code>your-name/workflow-name</code> under the <code><a href="https://github.com/alfredapp/gallery-edits/tree/main/workflows/">/workflows/</a></code> folder. Inside, create a <code>readme.md</code> file for the instructions, an <code>images</code> folder for the screenshots, and an <code>icon.png</code> with the workflow icon at 256x256px. See <a href="https://github.com/alfredapp/gallery-edits/tree/main/workflows/alfredapp/disk-usage/">alfredapp/disk-usage</a> for an example.</details>
           required: true
