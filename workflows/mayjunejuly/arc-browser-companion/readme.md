@@ -1,8 +1,10 @@
 ## Usage
 
-Search Arc browser tabs and spaces via the `arctabs` keyword. Press <kbd>↩</kbd> to switch to it.
+Search Arc browser tabs and Spaces via the `arctabs` keyword. Press <kbd>↩</kbd> to switch to it.
 
 ![Searching Arc browser tabs](images/keyword_search.png)
+
+Configure the Hotkey for faster triggering.
 
 Back up your tabs to an HTML file with the `backuparc` keyword. Set up where the file is saved to in the Workflow’s Configuration.
 
