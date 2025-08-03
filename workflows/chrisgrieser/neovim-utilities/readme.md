@@ -8,16 +8,16 @@ Search the [Neovim documentation](https://neovim.io/doc/user/) via the `:h` keyw
 * <kbd>⌥</kbd><kbd>↩</kbd> Copy page URL.
 * <kbd>⌘</kbd><kbd>Y</kbd> Quick Look the page.
 
-Search [awesome-neovim](https://github.com/rockerBOO/awesome-neovim/) with the `vp` keyword.
+Search for neovim plugins at [store.nvim](https://github.com/alex-popov-tech/store.nvim) with the `np` keyword.
 
 ![Neovim plugin search](images/vpkey.png)
 
 * <kbd>↩</kbd> Open the plugin’s GitHub repository.
-* <kbd>⌘</kbd><kbd>↩</kbd> Open the help page of the plugin on GitHub.
+* <kbd>⌘</kbd><kbd>↩</kbd> Open the `:help` page of the plugin on GitHub.
 * <kbd>⌥</kbd><kbd>↩</kbd> Copy the GitHub URL.
-* <kbd>⇧</kbd><kbd>↩</kbd> Search GitHub issues of the plugin.
+* <kbd>⌃</kbd><kbd>↩</kbd> Copy installation snippet for `lazy.nvim`, if available.
 
-Search for locally installed plugins via the `ip` keyword. The modifiers <kbd>⌘</kbd><kbd>⌥</kbd><kbd>⌃</kbd><kbd>⇧</kbd> above also apply. In addition, <kbd>fn</kbd><kbd>↩</kbd> opens the local directory of the plugin in the Finder.
+Search for locally installed plugins and `mason.nvim` packages via the `ip` keyword. The modifiers <kbd>⌘</kbd><kbd>⌥</kbd><kbd>⌃</kbd><kbd>⇧</kbd> above also apply. In addition, <kbd>fn</kbd><kbd>↩</kbd> opens the local directory of the plugin in the Finder.
 
 Search for tools available via [mason.vim](https://github.com/williamboman/mason.nvim) with the `mason` keyword.
 
