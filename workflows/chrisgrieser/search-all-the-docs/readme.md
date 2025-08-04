@@ -16,16 +16,16 @@ Search documentation via the workflow’s keywords, which follow the same name a
 
 Extra documentation sites not included in DevDocs with their own keywords include:
 
-* `biome`: biome docs and rules.
-* `ruff`: ruff docs and rules.
-* `sc`: shellcheck wiki.
-* `pandoc`: pandoc user manual.
-* `wt`: WezTerm docs.
-* `just`: [just](https://just.systems/man/en/) docs.
-* `yq`: yq docs.
-* `oh`: Obsidian help.
-* `odd`: Obsidian developer docs.
-* `ddg`: DuckDuckGo help pages.
+- `biome`: biome docs & rules
+- `ruff`: ruff docs & rules
+- `sc`: shellcheck wiki
+- `pandoc`: pandoc user manual
+- `wt`: WezTerm docs
+- `yq`: yq docs
+- `oh`: Obsidian help
+- `odd`: Obsidian developer docs
+- `ddg`: DuckDuckGo help pages
+- `man`: man pages (and their options) at [mankier](https://www.mankier.com/)
 
 These search indexes are cached. In case of a recent change to a documentation site, you can manually trigger refreshing the cache via the `:docs-reload` keyword.
 
