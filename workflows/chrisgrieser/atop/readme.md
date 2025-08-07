@@ -29,7 +29,7 @@ Search paired bluetooth devices with the `blue` keyword.
 
 ![Searching paired bluetooth devices](images/blue.png)
 
-* <kbd>↩</kbd> Toggle connection if [`blueutil`](https://formulae.brew.sh/formula/blueutil) is installed. Otherwise, open bluetooth in System Preferences.
+* <kbd>↩</kbd> Connect/Disconnect the selected device.
 * <kbd>⌥</kbd><kbd>↩</kbd> Copy device address.
 
 ### Removable Volumes
