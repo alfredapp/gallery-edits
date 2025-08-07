@@ -1,10 +1,10 @@
 ## Usage
 
-Open files, folders in VS Code, VSCodium or Cursor via the `codeo` keyword.
+Open files and folders in VS Code, VSCodium, or Cursor, via the `codeo` keyword.
 
 ![Open files with keyword](images/showcase_open.png)
 
-Leave the argument empty to open current selection or, if no selection, frontmost folder in Finder.
+Leave the argument empty to open the current selection or the frontmost folder in the Finder if there isn’t a selection.
 
 Alternatively, open any selected file or folder via the Universal Action.
 
