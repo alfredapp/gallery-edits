@@ -1,6 +1,6 @@
 ## Usage
 
-Set timers via the `timer` keyword. Configure presets in the Workflow’s Configuration or pick a duration on demand. A Large Type message will sow when done.
+Set timers via the `timer` keyword. Configure presets in the Workflow’s Configuration or pick a duration on demand. A Large Type message will show when done.
 
 ![Showing timers with presets](images/timer.png)
 
