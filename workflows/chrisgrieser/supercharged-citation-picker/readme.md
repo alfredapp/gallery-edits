@@ -19,7 +19,7 @@ Start the citation picker via the `ct` keyword. You can search for the title, au
 
 * <kbd>↩</kbd> Paste the citekey of the selected citation.
 * <kbd>⌥</kbd><kbd>↩</kbd> Add another citation.
-* <kbd>⇧</kbd><kbd>⌘</kbd><kbd>↵</kbd> Paste an inline-citation (e.g. `@Grieser2022` instead of `[@Grieser2022]`).
+* <kbd>⇧</kbd><kbd>⌘</kbd><kbd>↩</kbd> Paste an inline-citation (e.g. `@Grieser2022` instead of `[@Grieser2022]`).
 * <kbd>⌘</kbd><kbd>↩</kbd> Add page numbers before pasting the selected citekey.
   * Confirm the page number with <kbd>⌥</kbd><kbd>↩</kbd> (or <kbd>⌘</kbd><kbd>↩</kbd>) to add another citation afterward.
   * Confirm with <kbd>⇧</kbd><kbd>⌘</kbd><kbd>↩</kbd> for an inline-citation with page number (`@Grieser2022 [p. 42]`).
