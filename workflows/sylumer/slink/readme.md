@@ -14,7 +14,7 @@ Search the web and generate Markdown links for text via the `sl` keyword.
 
 The result takes about a second to generate. By default it is copied to the clipboard and pasted to the frontmost app but that behaviour can be changed in the Workflow’s Configuration.
 
-Either action can be forced with the `sli` and `slc` keywords. The former always pastes (inserts the text) while the later always copies. List all variations with the `slink` keyword.
+Either action can be forced with the `sli` and `slc` keywords. The former always pastes (inserts the text) while the latter always copies. List all variations with the `slink` keyword.
 
 ![Listing all variations](images/slink.png)
 
