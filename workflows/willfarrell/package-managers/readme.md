@@ -25,7 +25,7 @@ Search package repositories via the workflow’s keywords:
 * `pear` PHP [Pear Packages](http://pear.php.net).
 * `puppet` [Puppet Modules](https://forge.puppetlabs.com).
 * `pypi` [Python Packages](https://pypi.python.org).
-* `raspbian` [Rasberry Pi Packages](http://www.raspbian.org).
+* `raspbian` [Raspberry Pi Packages](http://www.raspbian.org).
 * `rpm` [Red Hat Linux Packages](http://rpmfind.net).
 * `snap` [Snapcraft Packages](https://snapcraft.io).
 * `st` [Sublime Text Packages](https://packagecontrol.io).
