@@ -4,7 +4,7 @@ Set a folder to save your lists in the Workflow’s Configuration.
 
 Create a new list via the `bk` keyword.
 
-![Crating a new list](images/bk-init.png)
+![Creating a new list](images/bk-init.png)
 
 ## Usage
 
