@@ -21,7 +21,7 @@ Restore DNS settings to your ISP's defaults with the `dnsreset` keyword, or clea
 
 Previously ignored services can be recovered via the `:dns` keyword.
 
-![Recovering ignred DNS services](images/recover.png)
+![Recovering ignored DNS services](images/recover.png)
 
 * <kbd>↩</kbd> Recover DNS option.
 * <kbd>⌘</kbd><kbd>↩</kbd> Go to the DNS resolver list.
