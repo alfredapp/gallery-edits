@@ -8,7 +8,7 @@ Reference international paper formats via the keywords:
 * `paperansi` ANSI Paper Formats.
 * `paperarch` Architectural Paper Formats.
 
-![Different supported standard](images/paper.png)
+![Different supported standards](images/paper.png)
 
 ![Filtering to A4](images/paperisoa4.png)
 
