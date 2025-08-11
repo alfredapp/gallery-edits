@@ -1,6 +1,6 @@
 ## Usage
 
-Start a route in Google maps via the `mappy` keyword followed by a destination.
+Start a route in Google Maps via the `mappy` keyword followed by a destination.
 
 ![Looking for a destination from the current location](images/current.png)
 
