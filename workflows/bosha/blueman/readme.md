@@ -1,6 +1,6 @@
 ## Usage
 
-View pared bluetooth devices via the `btl` keyword. Press <kbd>↩</kbd> to connect and disconnect.
+View paired bluetooth devices via the `btl` keyword. Press <kbd>↩</kbd> to connect and disconnect.
 
 ![View devices](images/btl.png)
 
