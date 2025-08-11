@@ -21,10 +21,10 @@ Keep your Mac awake for a specified amount of time or until a certain time via t
 
 Give `i` as the argument to keep awake indefinitely.
 
-![Keep awak indefinitely](images/cfsi.png)
+![Keep awake indefinitely](images/cfsi.png)
 
 Give `s` as the argument to check out the status.
 
 ![Check active session](images/cfss.png)
 
-Configure the Hotkey to trigger the `coffee` toggle action. 
+Configure the Hotkey to trigger the `coffee` toggle action.
