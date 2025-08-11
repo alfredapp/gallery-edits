@@ -4,7 +4,7 @@ Open the [Internet Archive’s](https://archive.org/) most recent web page snaps
 
 ![Open wayback machine](images/wayback.png)
 
-* <kbd>↩</kbd> Open page. if no snapshot exists, fallback to the action in the Workflow’s Configuration.
+* <kbd>↩</kbd> Open page. If no snapshot exists, fallback to the action in the Workflow’s Configuration.
 * <kbd>⌘</kbd><kbd>↩</kbd> Show all snapshots.
 * <kbd>⌥</kbd><kbd>↩</kbd> Force fallback.
 
