@@ -2,7 +2,7 @@
 
 Search installed manual pages via the `man` keyword.
 
-![Searchign for manual pages](images/search.png)
+![Searching for manual pages](images/search.png)
 
 * <kbd>↩</kbd> Open in primary viewer.
 * <kbd>⌥</kbd><kbd>↩</kbd> Open in secondary viewer.
