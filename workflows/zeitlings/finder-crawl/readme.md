@@ -2,7 +2,7 @@
 
 Find files and folders nested within folders of the active Finder window via the `fn` keyword. Alternatively, use the `fnd` keyword to only search for folders.
 
-![Findng files and folders](images/fn.png)
+![Finding files and folders](images/fn.png)
 
 ![Finding folders](images/fnd.png)
 
