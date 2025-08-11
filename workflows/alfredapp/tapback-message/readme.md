@@ -1,4 +1,4 @@
-## Usage 
+## Usage
 
 Send a tapback to the current message via the `tapback` keyword.
 
