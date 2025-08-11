@@ -18,4 +18,4 @@ Other keywords are available to search for files in different locations:
 * `tag` Search files you assigned a tag to.
 * `trash` Search files in the Trash.
 
-For all fives cases, you can change the keyword in the Workflow’s Configuration or configure a Hotkey.
+For all five cases, you can change the keyword in the Workflow’s Configuration or configure a Hotkey.
