@@ -1,6 +1,6 @@
 ## Usage
 
-Shorten and expand URLs via the  `shorturl` and `longurl` keywords.
+Shorten and expand URLs via the `shorturl` and `longurl` keywords.
 
 ![Keyword to shorten URL](images/shorturl.png)
 
