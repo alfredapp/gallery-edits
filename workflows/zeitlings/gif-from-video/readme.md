@@ -4,7 +4,7 @@ Convert video files to animated GIFs via the Universal Action.
 
 ![Universal Action to find video](images/ua.png)
 
-Alternatively, Find videos to convert to with the `gifify` keyword. 
+Alternatively, find videos to convert with the `gifify` keyword. 
 
 ![File Filter to find video](images/keyword.png)
 
