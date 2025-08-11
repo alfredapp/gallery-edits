@@ -4,7 +4,7 @@ Open Dictionary.app. In the menubar: `Dictionary` → `Settings…`. Install the
 
 Build their databases with the `:wordsmithbuild` keyword.
 
-![Buidling definitions](images/build.png)
+![Building definitions](images/build.png)
 
 ## Usage
 
