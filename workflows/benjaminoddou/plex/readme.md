@@ -40,6 +40,6 @@ Register and manage your Plex servers.
 
 ### Plex Help
 
-Configure the workflow and access filter and sort options
+Configure the workflow and access filter and sort options.
 
 ![Help](images/help.png)
