@@ -1,6 +1,6 @@
 ## Setup
 
-Set the Base URL and API Token of your [linkding](https://github.com/sissbruecker/linkding) installation in the Workflow’s Configuration. You can find the API Token from your linkding Settings → Integrations → Rest API.
+Set the Base URL and API Token of your [linkding](https://github.com/sissbruecker/linkding) installation in the Workflow’s Configuration. You can find the API Token from your linkding Settings → Integrations → REST API.
 
 ## Usage
 
