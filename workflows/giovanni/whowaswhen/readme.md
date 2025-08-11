@@ -9,7 +9,7 @@ Filter for events only via the `--e` search flag.
 ![Search filtering for events only](images/events.png)
 
 * <kbd>↩</kbd> Show the Wikipedia page of the ruler (or event, if available).
-* <kbd>⌃</kbd>️️<kbd>↩</kbd> “Travel” to the first year of the ruling period or event.
+* <kbd>⌃</kbd><kbd>↩</kbd> “Travel” to the first year of the ruling period or event.
 * <kbd>⌘</kbd><kbd>↩</kbd> “Travel” to the last year of the ruling period or event.
 * <kbd>⌥</kbd><kbd>↩</kbd> Show the list of rulers with that title (e.g. “English monarch”).
 * <kbd>⇧</kbd><kbd>↩</kbd> Copy the info about the ruler or event to the clipboard.
