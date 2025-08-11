@@ -18,6 +18,6 @@ You’ll be asked to build the cache on the first run. A notification will show 
 
 The Universal Actions make it straightforward to copy and move files to a Google Drive folder.
 
-![File Actions for Google Drive copy and mode](images/fileaction.png)
+![File Actions for Google Drive copy and move](images/fileaction.png)
 
 To report a problem, run `!gddiagnostic`.
