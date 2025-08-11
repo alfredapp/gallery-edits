@@ -1,6 +1,6 @@
 ## Usage
 
-Search for web features and which browsers support them by querying [canisue](https://caniuse.com) via the `cu` keyword.
+Search for web features and which browsers support them by querying [caniuse](https://caniuse.com) via the `cu` keyword.
 
 ![Alfred search for cu animation](images/cuanimation.png)
 
