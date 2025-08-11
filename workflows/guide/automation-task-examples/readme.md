@@ -24,6 +24,6 @@ Automation Tasks interact with other Alfred objects too. Let’s play a random m
 
 * `Folder Contents` set to list contents of the Movies folder.
 * `Random Argument` to pick one entry at chance.
-* ‌`Open File Action` to play it.
+* `Open File Action` to play it.
 
 You're not limited to interacting with files. Automation Tasks can change your wallpaper, manipulate text and URLs, resize windows, interact with apps, and more! The list keeps growing.
