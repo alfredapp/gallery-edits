@@ -12,6 +12,6 @@ Set the default web browser via the `sdb` keyword. The macOS browser change conf
 
 See the bundle identifier of an app via the Universal Action.
 
-![Universal Action for bundle indentifier](images/uabid.png)
+![Universal Action for bundle identifier](images/uabid.png)
 
 ![Bundle ID dialog](images/dialogbid.png)
