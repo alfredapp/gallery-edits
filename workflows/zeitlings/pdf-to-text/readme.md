@@ -9,7 +9,7 @@ Alternatively, find PDFs via the `pdftotext` keyword.
 ![File Filter searching for PDFs](images/ff.png)
 
 * <kbd>↩</kbd> Proceed to extract the entire text.
-* <kbd>⌘</kbd><kbd>↩</kbd> Proceed by specifing the pages to extract (single file only).
+* <kbd>⌘</kbd><kbd>↩</kbd> Proceed by specifying the pages to extract (single file only).
 * <kbd>⌃</kbd><kbd>↩</kbd> Proceed, push the result to the File Buffer and open the Universal Actions panel.
 
 ---
