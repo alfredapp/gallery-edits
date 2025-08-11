@@ -1,6 +1,6 @@
 ## Usage
 
-Stream the the most recent URL in your Clipboard History or the URL in the frontmost browser tab to a local video player via the `playadd` keyword.
+Stream the most recent URL in your Clipboard History or the URL in the frontmost browser tab to a local video player via the `playadd` keyword.
 
 ![Showing available URLs](images/playadd.png)
 
