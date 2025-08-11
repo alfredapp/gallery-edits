@@ -1,6 +1,6 @@
 ## Usage
 
-Convert CSV files to Alfred Snippet Collections via the Universal Action. The Snippet Collection will be saved to the Desktop and opened for import into Alfred if the option in set in the Workflow’s Configuration.
+Convert CSV files to Alfred Snippet Collections via the Universal Action. The Snippet Collection will be saved to the Desktop and opened for import into Alfred if the option is set in the Workflow’s Configuration.
 
 ![Universal Action to convert to Snippet Collection](images/uafromcsv.png)
 
