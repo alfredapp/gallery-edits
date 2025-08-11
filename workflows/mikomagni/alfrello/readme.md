@@ -26,4 +26,4 @@ Add new cards to a Trello list via the `trello` keyword.
 
 ![Adding new card](images/trello.png)
 
-The above example would create a card named `Plan Meeting` with the description `Contact team`. You can add much more infomartion to each card, separated by semicolons. The order of fields is set in the Workflow’s Configuration.
+The above example would create a card named `Plan Meeting` with the description `Contact team`. You can add much more information to each card, separated by semicolons. The order of fields is set in the Workflow’s Configuration.
