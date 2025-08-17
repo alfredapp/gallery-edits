@@ -18,4 +18,4 @@ List and search your bookmarks and notes from your Karakeep (previosuly Hoarder)
 
 Add new bookmarks with the `hoard` keyword.
 
-![Adding bookmark](IMAGE_HERE)
+![Adding bookmark](images/hoard.png)
