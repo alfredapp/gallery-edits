@@ -1,21 +1,21 @@
 ## Setup
 
-This workflow requires Hoarder/Karakeep URL and its API key.
-
-[Self-host](https://docs.karakeep.app/Installation/docker) your own instance or use [official instance](https://cloud.karakeep.app/signin).
-
-Setup an API key on `{hoarder_url}/settings/api-keys`.
+Set the URL and API Key of your [Karakeep](https://karakeep.app) installation in the Workflow’s Configuration. You can find the API Token from your Karakeep URL under `/settings/api-keys`.
 
 ## Usage
 
-List and search your bookmarks and notes in your Hoarder (now: Karakeep) server via `hoarder` + keyword, add new links and bookmarks via the `hoard` keyword.
+List and search your bookmarks and notes from your Karakeep (previosuly Hoarder) server via the `hoarder` keyword.
 
 ![List and Search](images/list.png)
 
- - <kbd>↩</kbd> : Open link directly
- - <kbd>⌘</kbd><kbd>↩</kbd>: Copy link to clipboard
- - <kbd>⌥</kbd><kbd>↩</kbd>: Open in your Hoarder server
- - <kbd>⌃</kbd><kbd>↩</kbd>: View and control (View tags/Favorite/Archive/Delete)
- - <kbd>⇧</kbd><kbd>↩</kbd>: Copy link in markdown format
+ * <kbd>↩</kbd> Open link.
+ * <kbd>⌘</kbd><kbd>↩</kbd> Copy link to clipboard.
+ * <kbd>⌥</kbd><kbd>↩</kbd> Open in your Karakeep server.
+ * <kbd>⌃</kbd><kbd>↩</kbd> View actions such as favorite, archive, and delete.
+ * <kbd>⇧</kbd><kbd>↩</kbd> Copy link in markdown format.
 
 ![View and Actions](images/actions.png)
+
+Add new bookmarks with the `hoard` keyword.
+
+![Adding bookmark](IMAGE_HERE)
