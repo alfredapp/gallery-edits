@@ -44,3 +44,4 @@ Directly open your GitHub notification via the `ghn` keyword. This requires a [G
 * <kbd>↩</kbd> Open the notification in the browser.
 * <kbd>⌘</kbd><kbd>↩</kbd> Mark the notification as read.
 * <kbd>⌥</kbd><kbd>↩</kbd> Copy the URL of the notification target.
+* <kbd>⌃</kbd><kbd>↩</kbd> Mark the notification as done.
