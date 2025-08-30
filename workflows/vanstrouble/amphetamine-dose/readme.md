@@ -22,3 +22,7 @@ Set Amphetamine to keep your Mac awake for a specified amount of time or until a
 Give `i` as the argument to keep awake indefinitely.
 
 ![Turning on indefinitely](images/amsi.png)
+
+Give `s` as the argument to check session status
+
+![Checking status](images/amss.png)
