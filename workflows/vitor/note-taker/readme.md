@@ -22,7 +22,7 @@ Find your notes with the `nview` keyword.
 * <kbd>⌃</kbd><kbd>↩</kbd> Copy note contents and delete it.
 * <kbd>⌘</kbd><kbd>Y</kbd> Quick Look note.
 
-## Edit
+### Edit
 
 Notes can be edited directly in Alfred or a text editor. The default can be changed in the Workflow’s Configuration. Alfred’s view is stacked, meaning <kbd>⎋</kbd> goes back to the search. <kbd>⌘</kbd><kbd>⎋</kbd> force hides.
 
