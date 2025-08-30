@@ -27,4 +27,4 @@ Give `s` as the argument to check out the status.
 
 ![Check active session](images/cfss.png)
 
-Configure the Hotkey to trigger the `coffee` toggle action.
+Configure the Hotkeys for faster triggering.
