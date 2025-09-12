@@ -10,4 +10,4 @@ When viewing a contact in Alfred, highlight the birthday field and press <kbd>â†
 
 ![Highlighting birthday field in contact](images/contactview.png)
 
-![Showin notification](images/notification.png)
+![Showing notification](images/notification.png)
