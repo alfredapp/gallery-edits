@@ -12,4 +12,4 @@ Prepend your query with `#` to search by keyboard shortcut.
 
 ![Searching through Xcode menu items with shortcut](images/keyword-usage-search-with-shortcut.png)
 
-Fuzzy searches supported. For instance, `menu cw` will match the menu item ‘Close Window’.
+Fuzzy searches are supported. For instance, `menu cw` matches the menu item `Close Window`.
