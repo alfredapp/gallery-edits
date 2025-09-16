@@ -4,6 +4,11 @@ Install [`tart`](https://github.com/cirruslabs/tart) with `brew install cirrusla
 
 ![Universal Action to install IPSW](images/ipsw.png)
 
+![Naming the virtual machine](images/installname.png)
+
+* <kbd>↩</kbd> Install and run virtual machine.
+* <kbd>⌘</kbd><kbd>↩</kbd> Install but do not run.
+
 ## Usage
 
 Search installed virtual machines via the `tart` keyword. List VMs ignored from the main list with the `itart` keyword.
