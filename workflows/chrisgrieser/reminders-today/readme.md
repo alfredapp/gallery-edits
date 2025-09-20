@@ -13,10 +13,9 @@ Display reminders due today (or overdue) via the `rem` keyword. Configure the Ho
 * <kbd>⌘</kbd><kbd>L</kbd> Display the reminder details in Large Type
 * <kbd>⌘</kbd><kbd>Y</kbd> Quick Look the URL (if there is one).
 
-Quickly add a new reminder due today, tomorrow, or in two days via the `qq`, `q1`, and `q2` keywords, respectively.
-
+Quickly add a new reminder due today, tomorrow, in two days, or next Monday via the `qq`, `q1`, `q2`, or `qm` keyword, respectively.
 ![Keywords to add a reminder today or tommorow](images/qq.png)
 
 The commands support simple parsing of a due time with the format `hh:mm`. For instance, `19:00 buy milk` or `buy milk 19:00` will set the due time to `19:00` and the reminder title to `buy milk`.
 
-A priority can be specified by adding the respective number of `!` *at the end*. For example, `buy milk!` will result in a reminder title `buy milk` with a medium priority. (`!` = low, `!!` = medium, `!!!` = high).
+A priority can be specified by adding the respective number of `!` *at the end or the beginning*. For example, `buy milk!!` or `!!buy milk` will result in a reminder with the title `buy milk` with a medium priority. (`!` = low, `!!` = medium, `!!!` = high).
