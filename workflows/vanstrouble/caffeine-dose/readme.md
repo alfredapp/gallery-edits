@@ -1,8 +1,8 @@
 ## Usage
 
-Toggle keeping your Mac awake via the `coffee` keyword.
+Toggle keeping your Mac awake via the `caff` keyword.
 
-![Toggle keeping Mac awake](images/coffee.png)
+![Toggle keeping Mac awake](images/caff.png)
 
 * <kbd>↩︎</kbd> Toggle letting macOS sleep.
 * <kbd>⌘</kbd><kbd>↩︎</kbd> Toggle letting macOS sleep and allow display sleep.
