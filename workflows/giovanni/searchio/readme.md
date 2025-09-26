@@ -1,6 +1,6 @@
 ## Usage
 
-Configure available search engines via the `searchio` keyword. 
+Configure available search engines via the `searchio` keyword.
 
 ![Main Settings and Help menu](images/settings.png)
 
