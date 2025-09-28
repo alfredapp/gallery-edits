@@ -1,6 +1,6 @@
 ## Setup
 
-Reveal the Helper app in the Finder via the `:mangahelper` keyword. This is enough for make macOS to become aware of it and set an identifier for CBZ files.
+Reveal the Helper app in the Finder via the `:mangahelper` keyword. This is enough for macOS to become aware of it and set an identifier for CBZ files.
 
 ![Show helper app in Finder](images/helper.png)
 
