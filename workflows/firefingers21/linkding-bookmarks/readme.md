@@ -12,14 +12,14 @@ Bookmarks are always searchable by title, while filtering by Description, Notes,
 
 ![Narrowing search for linkding bookmarks](images/bm-narrow.png)
 
-* <kbd>↩</kbd> Open bookmark in primary browser
-* <kbd>⇧</kbd><kbd>⌘</kbd><kbd>↩</kbd> Open in primary browser without closing Alfred
-* <kbd>⌘</kbd><kbd>↩</kbd> Open bookmark in secondary browser
-* <kbd>⌥</kbd><kbd>↩</kbd> Edit bookmark in linkding
-* <kbd>⇧</kbd><kbd>⌥</kbd><kbd>↩</kbd> View bookmark in linkding
-* <kbd>⌃</kbd><kbd>↩</kbd> Delete bookmark from linkding
-* <kbd>⌘</kbd><kbd>L</kbd> View all tags and full URL in Large Type
-* <kbd>⇧</kbd> Hold to show bookmark description
+* <kbd>↩</kbd> Open bookmark in primary browser.
+* <kbd>⇧</kbd><kbd>⌘</kbd><kbd>↩</kbd> Open in primary browser without closing Alfred.
+* <kbd>⌘</kbd><kbd>↩</kbd> Open bookmark in secondary browser.
+* <kbd>⌥</kbd><kbd>↩</kbd> Edit bookmark in linkding.
+* <kbd>⇧</kbd><kbd>⌥</kbd><kbd>↩</kbd> View bookmark in linkding.
+* <kbd>⌃</kbd><kbd>↩</kbd> Delete bookmark from linkding.
+* <kbd>⌘</kbd><kbd>L</kbd> View all tags and full URL in Large Type.
+* <kbd>⇧</kbd> Hold to show bookmark description.
 
 Append `::` to the configured Keyword to access other actions, such as manually reloading the bookmark cache.
 
