@@ -1,19 +1,21 @@
 ## Setup
 
 Set the secondary and output languages in the Workflow’s Configuration.
-Configure the [Hotkey](https://www.alfredapp.com/help/workflows/triggers/hotkey/) for faster triggering.
 
 ## Usage
 
-Translate words or sentences to another language via the `t` keyword.
-![preview](images/img1.png)
-![preview2](images/img2.png)
-![preview3](images/img3.png)
-- <kbd>↩</kbd>: Copy the translated text to the clipboard.
-- <kbd>⇧</kbd><kbd>↩</kbd>: Paste the translated text to the frontmost app.
-- <kbd>⌥</kbd><kbd>↩</kbd>: Show the translated text in the `Text View`.
-By default, translate any language to Russian, setup your language in the **workflow settings**.  
-You can use it in Universal Actions! By typing "Translate"
-Translate selected text via the [Universal Action](https://www.alfredapp.com/help/features/universal-actions/).
+Translate words or sentences to another language via the `translate` keyword.
 
-Translate words or sentences to another language via the `translate` keyword. Tip: you may change it to `t` for easier access.
+![Translating with the Keyword](images/img1.png)
+
+![Showing full translation in Text View](images/img2.png)
+
+* <kbd>↩</kbd> Copy the translated text to the clipboard.
+* <kbd>⇧</kbd><kbd>↩</kbd> Paste the translated text to the frontmost app.
+* <kbd>⌥</kbd><kbd>↩</kbd> Show the translated text in the Text View.
+
+![Universal actions to translate](images/img3.png)
+
+Alternatively, begin translation with the Universal Actions.
+
+Configure the Hotkey for faster triggering.
