@@ -6,8 +6,7 @@ List all available tools via `atop`. The most frequently used have their own con
 
 ### Processes
 
-Search running processes with the `top` keyword. Append "parent" to the query to display
-only processes that have child processes.
+Search running processes with the `top` keyword. Append `parent` to the query to display only processes which have child processes.
 
 ![Searching running processes](images/top.png)
 
