@@ -6,16 +6,18 @@ List all available tools via `atop`. The most frequently used have their own con
 
 ### Processes
 
-Search running processes with the `top` keyword.
+Search running processes with the `top` keyword. Append `parent` to the query to display only processes which have child processes.
 
 ![Searching running processes](images/top.png)
 
-* <kbd>↩</kbd> Kill the process.
-* <kbd>⌘</kbd><kbd>↩</kbd> Force kill the process.
-* <kbd>⌃</kbd><kbd>↩</kbd> Kill all processes with the same name.
-* <kbd>⌘</kbd><kbd>⌃</kbd><kbd>↩</kbd> Force kill all processes with the same name.
-* <kbd>⇧</kbd><kbd>↩</kbd> If the process belongs to a regular app, restart it.
-* <kbd>⌥</kbd><kbd>↩</kbd> Copy process ID.
+* <kbd>↩</kbd>: Kill the process.
+* <kbd>⌘</kbd><kbd>↩</kbd>: Force kill the process.
+* <kbd>⌃</kbd><kbd>↩</kbd>: Kill all processes with the same name.
+* <kbd>⌘</kbd><kbd>⌃</kbd><kbd>↩</kbd>: Force kill all processes with the same name.
+* <kbd>⇧</kbd><kbd>↩</kbd>: If the process belongs to a regular app, it.
+* <kbd>fn</kbd><kbd>↩</kbd>: Toggle between sorting processes by memory or CPU.
+* <kbd>⌘</kbd><kbd>C</kbd>: Copy the process identifier (PID).
+* <kbd>⌥</kbd><kbd>↩</kbd>: Copy the process path.
 
 #### Icon legend
 
