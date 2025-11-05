@@ -1,28 +1,27 @@
 ## Usage
 
-Search your [Firefox](https://www.mozilla.org/firefox/new) bookmarks via the `bm` keyword.
+Search for your [Firefox](https://www.mozilla.org/firefox/new) bookmarks via the `bm` keyword. Type to refine your search.
 
-![Searching for Firefox bookmarks](images/bm.png)
+![Searching for Firefox bookmarks](images/keyword.png)
 
-Type to refine your search. Bookmarks are always filtered by Name, while filtering by URL, Tags, Keyword, and bookmark description are configurable from the Workflow’s Configuration.
+Bookmarks are always searchable by Name, while filtering by Description, Keyword, URL, and Tag is configurable from the Workflow’s Configuration.
 
-![Narrowing search for Firefox bookmarks](images/bm-tags.png)
+![Narrowing search for Firefox bookmarks](images/tagFilter.png)
 
 * <kbd>↩</kbd> Open bookmark in primary browser.
-* <kbd>⇧</kbd><kbd>⌘</kbd><kbd>↩</kbd> Open in primary browser without closing Alfred (when browser is in focus).
+* <kbd>⇧</kbd><kbd>⌘</kbd><kbd>↩</kbd> Open in primary browser without closing Alfred.
 * <kbd>⌘</kbd><kbd>↩</kbd> Open bookmark in secondary browser.
-* <kbd>⌘</kbd><kbd>C</kbd> Copy bookmark URL.
 * <kbd>⌘</kbd><kbd>L</kbd> View all tags and full URL in Large Type.
-* <kbd>⇧</kbd> Show bookmark description.
+* <kbd>⇧</kbd> Hold to show bookmark description.
 
-Firefox Developer Edition and Nightly builds are also supported and configurable. The Workflow's icon colours and bookmarks will change based on the selected Release Channel.
+Firefox Developer Edition and Nightly builds are also supported. The Workflow's icon colours and bookmarks will change based on the [configured](https://www.alfredapp.com/help/workflows/user-configuration/) Release Channel.
 
-![Searching for Firefox bookmarks using Nightly](images/bm-nightly.png)
+![Searching for Firefox bookmarks using Nightly](images/otherBuilds.png)
 
-Append `::` to the configured keyword to access other actions, including opening the [Firefox Profile Manager](https://support.mozilla.org/kb/profile-manager-create-remove-switch-firefox-profiles). Bookmarks are only indexed from the default profile, which can be changed from the Profile Manager in each Firefox build.
+Append `::` to the configured Keyword to access other actions, including opening the [Firefox Profile Manager](https://support.mozilla.org/kb/profile-manager-create-remove-switch-firefox-profiles). Bookmarks are only indexed from the default profile, which can be changed from the Profile Manager in each Firefox build.
 
-![Other actions](images/bm-actions.png)
+![Other actions](images/inlineSettings.png)
 
-Configure the Hotkey as a shortcut to search for your bookmarks.
+Configure the Hotkey as a shortcut for searching your bookmarks.
 
 Bookmarks with the tag `Exclude-Alfred` will be hidden from search. This tag is case sensitive.
