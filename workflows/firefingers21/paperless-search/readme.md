@@ -1,6 +1,6 @@
 ## Setup
 
-Set the Base URL and API Token of your [Paperless-ngx](https://docs.paperless-ngx.com/) installation in the Workflow’s Configuration. You can find the API Token from the "My Profile" link in the user dropdown found in the web UI.
+Set the Base URL and API Token of your [Paperless-ngx](https://docs.paperless-ngx.com/) installation in the Workflow’s Configuration. You can find the API Token from the “My Profile” link in the user dropdown found in the web UI.
 
 ## Usage
 
@@ -19,7 +19,7 @@ Type to refine your search. Documents are always searchable by Title and Creatio
 * <kbd>⌥</kbd><kbd>↩</kbd> View document details in Paperless web UI.
 * <kbd>⌃</kbd><kbd>⌘</kbd><kbd>↩</kbd> Switch between list and grid views.
 
-Append `d` to the configured Keyword to use Paperless's own search mechanism instead of Alfred's. While slower, this allows for more [granular search functions](https://docs.paperless-ngx.com/usage/#document-searches) by querying the Paperless API directly.
+Append `d` to the configured Keyword to use Paperless’s own search mechanism instead of Alfred’s. While slower, this allows for more [granular search functions](https://docs.paperless-ngx.com/usage/#document-searches) by querying the Paperless API directly.
 
 ![Searching for documents](images/keywordDirect.png)
 
@@ -38,6 +38,6 @@ Append `::` to the configured Keyword to access other actions, including manuall
 
 Configure the Hotkeys as shortcuts for each document search mechanism.
 
-Use the Universal Action to upload [supported files](https://docs.paperless-ngx.com/faq/#what-file-types-does-paperless-ngx-support) to Paperless from Alfred's Clipboard History or selected files.
+Use the Universal Action to upload [supported files](https://docs.paperless-ngx.com/faq/#what-file-types-does-paperless-ngx-support) to Paperless from Alfred’s Clipboard History or selected files.
 
 ![Using the Universal Action](images/ua.png)
