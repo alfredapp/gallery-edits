@@ -2,7 +2,7 @@
 
 ### Add URL to GoodLinks
 
-Add the URL of the frontmost browser’s active tab to [GoodLinks](https://goodlinks.app) via the `glb` keyword.
+Add the URL of the frontmost browser’s active tab to GoodLinks via the `glb` keyword.
 
 ![glb keyword](images/glb-keyword.png)
 
