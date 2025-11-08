@@ -11,3 +11,7 @@ Place your cursor in a word or select text then press the defined Hotkeys to:
 * Invoke Apple Intelligence Writing Tools.
 
 ![Canvas screenshot](images/workflow-canvas.png)
+
+You can also trigger the synonym suggestion with the keyword `syn`:
+
+![Canvas screenshot](images/syn.png)
