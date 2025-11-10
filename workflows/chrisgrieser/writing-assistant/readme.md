@@ -10,4 +10,6 @@ Place your cursor in a word or select text then press the defined Hotkeys to:
 * Suggest synonyms for the word under the cursor.
 * Invoke Apple Intelligence Writing Tools.
 
-![Canvas screenshot](images/workflow-canvas.png)
+You can also trigger the synonym suggestion with the keyword `syn`:
+
+![Synonym Search](images/syn.png)
