@@ -6,11 +6,11 @@ Set the Base URL and API Token of your [linkding](https://linkding.link/) instal
 
 Search for your [linkding](https://linkding.link/) bookmarks via the `bm` keyword. Type to refine your search.
 
-![Searching for linkding bookmarks](images/bm-music.png)
+![Searching for linkding bookmarks](images/keyword.png)
 
 Bookmarks are always searchable by title, while filtering by Description, Notes, URL, and Tag is configurable from the Workflow’s Configuration.
 
-![Narrowing search for linkding bookmarks](images/bm-narrow.png)
+![Narrowing search for linkding bookmarks](images/tagFilter.png)
 
 * <kbd>↩</kbd> Open bookmark in primary browser.
 * <kbd>⇧</kbd><kbd>⌘</kbd><kbd>↩</kbd> Open in primary browser without closing Alfred.
@@ -23,7 +23,7 @@ Bookmarks are always searchable by title, while filtering by Description, Notes,
 
 Append `::` to the configured Keyword to access other actions, such as manually reloading the bookmark cache.
 
-![Other actions](images/other.png)
+![Other actions](images/inlineSettings.png)
 
 Favicons are supported, and must be enabled in both the Workflow’s Configuration and your linkding settings.
 
