@@ -1,12 +1,8 @@
 ## Usage
 
-Download video from [a plethora of online sources](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) via the `dv` keyword. Download audio with `da`. Your clipboard and frontmost browser tab are checked for links.
+Download video from the most recent URL in your Clipboard History or the URL in the frontmost browser tab via the `dv` keyword. Download audio with `da`.
 
 ![Download video](images/dv.png)
-
-* <kbd>↩</kbd> Download.
-* <kbd>⌘</kbd><kbd>↩</kbd> Download full playlist.
-* <kbd>⌥</kbd><kbd>↩</kbd> Toggle adding to [Watch List](https://alfred.app/workflows/vitor/watch-list).
 
 Alternatively, download with the Universal Action.
 
