@@ -68,4 +68,4 @@ There are three types of item: file, series, and stream. Each result has its nam
 
 ## Supported Players
 
-All media players are supported, but not all are able to play streams. [mpv](http://mpv.io/), [IINA](https://lhc70000.github.io/iina/), and [VLC](http://www.videolan.org/vlc/index.html) are directly supported. With those, an item is not marked as watched if playback exits with a non-zero code. Take advantage of that to, for example, control when an item is marked as played and trashed. Disable the trashing behaviour entirely in the Workflow’s Configuration.
+All media players are supported, but not all are able to play streams. [mpv](http://mpv.io/), [IINA](https://iina.io/), and [VLC](http://www.videolan.org/vlc/index.html) are directly supported. With those, an item is not marked as watched if playback exits with a non-zero code. Take advantage of that to, for example, control when an item is marked as played and trashed. Disable the trashing behaviour entirely in the Workflow’s Configuration.
