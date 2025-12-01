@@ -1,6 +1,6 @@
 ## Usage
 
-Search for available displays with the `resolution` keyword. Select a display to modify its resolution.
+Search for available displays via the `resolution` keyword. Select a display to modify its resolution.
 
 ![Searching for displays](images/keyword.png)
 
@@ -9,7 +9,7 @@ Search for available displays with the `resolution` keyword. Select a display to
 
 Select a resolution to activate it, or add a new resolution to favourites. Resolutions must be favourited before they can be activated.
 
-![Searching for favourites](images/favouritesview.png)
+![Searching for favourites](images/favourites.png)
 
 * <kbd>↩</kbd> Activate favourited resolution.
 * <kbd>⌃</kbd><kbd>↩</kbd> Delete favourited resolution.
@@ -17,7 +17,7 @@ Select a resolution to activate it, or add a new resolution to favourites. Resol
 
 Choose from the list of available resolutions to add as a favourite. Type to filter. The current resolution is always listed first.
 
-![Searching for resolutions](images/resolutionsview.png)
+![Searching for resolutions](images/resolutions.png)
 
 * <kbd>↩</kbd> Add resolution to favourites.
 * <kbd>⇧</kbd><kbd>↩</kbd> Return to Favourites Selection.
