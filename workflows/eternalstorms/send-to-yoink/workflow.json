@@ -1,0 +1,33 @@
+{
+  "timestamps": {
+    "added": 1765275207,
+    "modified": 1765275207
+  },
+  "bundleIDs": [
+    "at.EternalStorms.YoinkAlfredFileAction"
+  ],
+  "name": "Send to Yoink",
+  "description": "Add files to Yoink",
+  "codeType": "script",
+  "links": {
+    "homepage": "https://eternalstorms.at/yoink/"
+  },
+  "tags": [
+    "utility",
+    "universal-actions"
+  ],
+  "dependencies": {
+    "otherLanguages": [
+      "osascript (as)"
+    ],
+    "apps": [
+      {
+        "name": "Yoink",
+        "url": "https://eternalstorms.at/yoink/",
+        "bundleIDs": [
+          "at.EternalStorms.Yoink"
+        ]
+      }
+    ]
+  }
+}
