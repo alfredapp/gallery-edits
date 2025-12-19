@@ -26,6 +26,8 @@ Extra documentation sites not included in DevDocs with their own keywords includ
 * `odd`: Obsidian developer docs.
 * `ddg`: DuckDuckGo help pages.
 * `man`: man pages (and their options) at [mankier](https://www.mankier.com/).
+* `tldr`: tl;dr pages.
+* `rumdl`: rumdl rules.
 
 These search indexes are cached. In case of a recent change to a documentation site, you can manually trigger refreshing the cache via the `:docs-reload` keyword.
 
