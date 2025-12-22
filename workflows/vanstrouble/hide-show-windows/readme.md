@@ -1,6 +1,6 @@
 ## Usage
 
-Hide windows via the `hide` keyword.
+Hide windows via the `hideall` keyword.
 
 ![Hide windows](images/hideall.png)
 
