@@ -19,4 +19,3 @@ Show current status of Alfred’s and this workflow’s clipboard history via th
 ![Show clipboard history status](images/clipboard_history_archive_4.png)
 
 ![Clipboard history status](images/clipboard_history_archive_5.png)
-
