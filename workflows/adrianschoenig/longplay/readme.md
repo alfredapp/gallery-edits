@@ -1,16 +1,26 @@
 ## Usage
 
-Search and control your Longplay music library via the `lp` keyword and its variants.
-
-All command start with `lp`:
-
-- `lp $term`: Search for albums and playlists. Then play or enqueue.
-- `lpc`: List **c**ollection, then get albums/playlists, or start album shuffle.
-- `lpt`: List sort order, then get **t**op albums/playlists for that order, or start album shuffle.
-- `lps`: Get now playing **s**tatus, then pause/skip/stop or rate current track.
-
-![Top level actions](images/top-level.png)
-
-![Playback controls](images/status.png)
+Search for albums and playlists via the the `lp` keyword.
 
 ![Album search](images/albums.png)
+
+* <kbd>↩</kbd> Play or enqueue.
+* <kbd>⌘</kbd><kbd>↩</kbd> Play now.
+
+List collections via the `lpc` keyword.
+
+--- MISSING SCREENSHOT ---
+
+* <kbd>↩</kbd> List albums in collection.
+* <kbd>⌘</kbd><kbd>↩</kbd> Start album shuffle.
+
+List sort order with `lpt`.
+
+--- MISSING SCREENSHOT ---
+
+* <kbd>↩</kbd> List top albums/playlists for chosen order.
+* <kbd>⌘</kbd><kbd>↩</kbd> Start album shuffle.
+
+Get now playing status with `lps` and pause/skip/stop or rate current track.
+
+![Playback controls](images/status.png)
