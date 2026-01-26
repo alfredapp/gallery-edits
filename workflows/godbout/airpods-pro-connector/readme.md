@@ -6,7 +6,7 @@ since somewhere along the macOS 14 release Apple requires Alfred 5 to have the B
 
 once your AirPods Pro(s) have been paired with your Mac just type `apc` to list them and connect or disconnect them at whim.
 
-![apc](resources/images/apc.png)
+![apc](images/apc.png)
 
 ## Need More info?
 
