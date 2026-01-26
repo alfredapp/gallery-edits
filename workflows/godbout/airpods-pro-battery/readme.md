@@ -1,9 +1,5 @@
-## Your Batteries
+## Usage
 
-type `apb` to see the current battery levels of your connected AirPods Pros. the more the better!
+Check AirPods Pro Battery via the `apb` keyword.
 
-![battery levels](images/apb.png)
-
-## Need more info?
-
-head to the [GitHub repo](https://github.com/godbout/alfred-airpodspro-battery).
+![Showing AirPods battery info](images/apb.png)
