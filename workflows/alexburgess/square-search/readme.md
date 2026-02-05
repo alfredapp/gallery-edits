@@ -1,48 +1,82 @@
 # Square Search
 
-This  workflow allows you to search for items, customers, and dashboard pages in Square directly from Alfred. Simply type in one of the keywords followed by your search, and the workflow will fetch relevant results, providing quick access to product details, customer records, or key Square Dashboard sections—helping you navigate Square more efficiently.
+Search Square items, customers, and dashboard pages directly from Alfred.
 
-### Item Search
-
-![](images/item.png)
-
-- Type in the item search keyword, followed by the item name
-- It will display the item, along with its variation names + prices, and SKU number
-- Press return to go to the item in the square dashboard
-
-#### Get images of square products in Alfred
-This workflow, will download a small copy of the product image, after you select an item to open in the dashboard. However, to download current images, you will want to type in the `initsquareimages` command
-
-### Customer Search
-
-![](images/customer.png)
-
-- Type in the keyword, followed by an *email address, phone number, or reference number* of a customer in your directory
-- It will display a list of matching customers, along with their details
-- Press return to go to the customer in the customer directory
-
-### Dashboard Search
-
-![](images/dashboard.png)
-
-- Type in the keyword, followed by the name of the square dashboard page you are looking for
-- Press return to jump to that page
-
-
-#### How to Get Your Square Access Token
-
-To use this workflow, you’ll need a Square access token. Follow these steps to obtain one:
-- Go to Square Developer Console [developer.squareup.com](https://developer.squareup.com/)
-- Click *Create an Application* and give it a name
-- Select your app from the dashboard, by pressing the 'open' button
-- In the app settings, navigate to Credentials
-- Locate the Personal Access Token under Production
-- Copy the token, and paste it into the box in the configuration
-
-**⚠️ Keep your access token secure—never share it or expose it in public repositories**
+This workflow lets you quickly jump to Square products, customer records, and commonly used Square Dashboard pages by typing simple keywords into Alfred.
 
 ---
 
-##### Disclaimer
+## Features
 
-This workflow is independently developed and is not created, endorsed, or maintained by Square. Square’s name and logos are trademarks of Block, Inc. and are used here solely for identification purposes. Use this workflow at your own discretion
+- Search Square items, including variations, prices, and SKU numbers
+- Search customers by email address, phone number, or reference number
+- Quickly open Square Dashboard pages
+- Displays product images inside Alfred
+
+---
+
+## Item Search
+
+![](images/item.png)
+
+- Type the item search keyword followed by an item name
+- Results show:
+  - Item name
+  - Variation names and prices
+  - SKU number
+- Press **Return** to open the item in the Square Dashboard
+
+### Product Images
+
+After opening an item, the workflow downloads a small copy of the product image for use in Alfred.
+
+To download or refresh all product images manually, run: `initsquareimages`. This can take a moment, depending on how many products there are.
+
+---
+
+## Customer Search
+
+![](images/customer.png)
+
+- Type the customer search keyword followed by:
+  - Email address  
+  - Phone number  
+  - Reference number
+- Matching customers are displayed with relevant details
+- Press **Return** to open the customer record in the Square Customer Directory
+
+---
+
+## Dashboard Search
+
+![](images/dashboard.png)
+
+- Type the dashboard search keyword followed by the page name
+- Press **Return** to open the corresponding Square Dashboard page
+
+---
+
+## Configuration
+
+### Square Access Token
+
+This workflow requires a Square **Personal Access Token**.
+
+To create one:
+
+1. Go to the Square Developer Console:  
+   https://developer.squareup.com/
+2. Click **Create an Application**
+3. Open the application you created
+4. Go to **Credentials**
+5. Copy the **Personal Access Token** under **Production**
+6. Paste the token into the workflow configuration in Alfred
+
+⚠️ **Keep your access token secure. Do not share it or commit it to public repositories.**
+
+---
+
+## Disclaimer
+
+This workflow is independently developed and is not created, endorsed, or maintained by Square.  
+Square and its logos are trademarks of Block, Inc. and are used solely for identification purposes.
