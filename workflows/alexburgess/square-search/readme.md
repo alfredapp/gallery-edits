@@ -8,4 +8,4 @@ Search Square items, customers, and dashboard pages via the `sq` (for items), `s
 
 * <kbd>↩</kbd> Open item/customer/dashboard entry with your default browser
 
-Generate all item image thumbnails, via the 'initsquareimages' keyword. This will go through your items, and download and create a small thumbnail, so you can see it in the Alfred item search. Individual images get updated upon pressing <kbd>↩</kbd> on an item in the item search too.
+Generate all item image thumbnails, via the `initsquareimages` keyword. This will go through your items, and download and create a small thumbnail, so you can see it in the Alfred item search. Individual images get updated upon pressing <kbd>↩</kbd> on an item in the item search too.
