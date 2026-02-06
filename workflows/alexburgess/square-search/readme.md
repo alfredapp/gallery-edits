@@ -14,6 +14,6 @@ Search dashboard pages with the `sqd` keyword.
 
 Generate all item image thumbnails via the `initsquareimages` keyword.
 
-INSERT IMAGE HERE
+![Screenshot of the initsquareimages command in Alfred](images/init.png)
 
 This will go through your items and download and create small thumbnails so you can see them in the Alfred item search.
