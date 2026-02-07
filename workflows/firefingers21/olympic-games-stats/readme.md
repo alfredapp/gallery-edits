@@ -1,8 +1,10 @@
 ## Usage
 
-View the current [Olympic Games](https://www.olympics.com/) schedule via the `ogs` keyword, adjusted to your local time zone. Type to filter by Sport, Country, Event, or Date.
+View the current [Olympic Games](https://www.olympics.com/) schedule via the `ogs` keyword, adjusted to your local time zone. Type to filter by Sport, Country, Event, Medal Event, or Date.
 
 ![Using the ogs keyword](images/keyword.png)
+
+* <kbd>↩</kbd> Open event details in browser.
 
 Append `::` to the configured Keyword to access other actions, such as manually reloading the schedule cache.
 
