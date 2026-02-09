@@ -7,7 +7,7 @@ Toggle keeping your Mac awake via the `caff` keyword.
 * <kbd>↩︎</kbd> Toggle letting macOS sleep.
 * <kbd>⌘</kbd><kbd>↩︎</kbd> Toggle letting macOS sleep and allow display sleep.
 
-Keep your Mac awake for a specified amount of time or until a certain time via the `cfs` keyword. Instantly see the session status.
+Keep your Mac awake for a specified amount of time or until a certain time via the `cfs` keyword.
 
 ![Instant status from cfs keyword](images/cfs-active.png)
 
@@ -33,4 +33,4 @@ Give `s` as the argument to check out the session details, including time left a
 
 ![Check active session](images/cfss.png)
 
-Configure the time format and define Hotkeys for faster triggering.
+Configure the Hotkeys for faster triggering. Define the time format in the Workflow’s Configuration.
