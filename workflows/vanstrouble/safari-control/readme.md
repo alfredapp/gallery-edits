@@ -20,7 +20,8 @@ List all open Safari tabs and select one to focus with the `swt` keyword.
 ![Showing open tabs](images/swt.png)
 
 * <kbd>↩︎</kbd> Focus selected tab.
-* <kbd>⌘</kbd><kbd>↩︎</kbd> Copy tab URL.
+* <kbd>⌘</kbd><kbd>↩︎</kbd> Copy tab URL to clipboard.
+* <kbd>⇧</kbd><kbd>⌘</kbd><kbd>↩︎</kbd> Copy markdown URL to clipboard.
 * <kbd>⌥</kbd><kbd>↩︎</kbd> Edit tab URL.
 * <kbd>⌃</kbd><kbd>↩︎</kbd> Close all tabs with this URL.
 
@@ -30,11 +31,14 @@ Show recent Safari history via `shi` keyword.
 
 * <kbd>↩︎</kbd> Open selected history item.
 * <kbd>⌘</kbd><kbd>↩︎</kbd> Copy URL to clipboard.
+* <kbd>⇧</kbd><kbd>⌘</kbd><kbd>↩︎</kbd> Copy markdown URL to clipboard.
 * <kbd>⌥</kbd><kbd>↩︎</kbd> Edit URL.
 
-Copy the current tab URL via `swu` keyword.
+Copy the current tab URL via `swc` keyword.
 
-![Copying current tab](images/swu.png)
+* <kbd>⇧</kbd><kbd>⌘</kbd><kbd>↩︎</kbd> Copy markdown URL to clipboard.
+
+![Copying current tab](images/swc.png)
 
 Open the current tab in a new private Safari window via the `stp` keyword.
 
