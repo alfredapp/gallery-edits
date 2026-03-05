@@ -6,6 +6,7 @@ Search the [Neovim documentation](https://neovim.io/doc/user/) via the `:h` keyw
 
 * <kbd>↩</kbd> Open the help page in the web browser.
 * <kbd>⌥</kbd><kbd>↩</kbd> Copy page URL.
+* <kbd>⌘</kbd><kbd>↩</kbd>: Copy the command or function name.
 * <kbd>⌘</kbd><kbd>Y</kbd> Quick Look the page.
 
 Search for neovim plugins at [store.nvim](https://github.com/alex-popov-tech/store.nvim) with the `np` keyword.
