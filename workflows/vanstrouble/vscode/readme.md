@@ -18,6 +18,8 @@ Open any folder in VS Code by giving its path to the `coped` keyword. If you don
 
 Alternatively, open any file or folder via the Universal Action.
 
+![Universal Action for codes keyword](images/codep-unac.png)
+
 Search the VS Code Marketplace with the `codes` keyword.
 
 ![Search extensions in VScode marketplace](images/codes.png)
