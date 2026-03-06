@@ -2,6 +2,8 @@
 
 Narrow down your selection from multiple action items via the Universal Action.
 
+![Showing this Universal Action in the panel](images/panel.png)
+
 ![Showing the selection process from multiple items](images/preview.png)
 
 * <kbd>↩</kbd> Choose current item.
