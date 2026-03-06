@@ -14,8 +14,8 @@ Use the `ogm` keyword to view the Olympic and Paralympic Medal Tables.
 * <kbd>⌘</kbd><kbd>↩</kbd> Open in Browser.
 * <kbd>⌥</kbd><kbd>↩</kbd> Refresh Medal Table.
 
-Append `::` to the configured [Keywords](https://www.alfredapp.com/help/workflows/inputs/keyword) to access other actions, such as manually reloading the schedule cache.
+Append `::` to the configured keywords to access other actions, such as manually reloading the schedule cache.
 
 ![Other actions](images/inlineSettings.png)
 
-Configure the [Hotkeys](https://www.alfredapp.com/help/workflows/triggers/hotkey/) as shortcuts for viewing the schedules and medal tables.
+Configure the Hotkeys as shortcuts for viewing the schedules and medal tables.
