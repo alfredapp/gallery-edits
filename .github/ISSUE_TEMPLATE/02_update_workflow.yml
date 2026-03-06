@@ -36,17 +36,7 @@ body:
         * Another change…
     validations:
       required: true
-  - type: input
-    attributes:
-      label: Website
-      description: Only required if it changed.
-      placeholder: https://github.com/username/repo/
-  - type: input
-    attributes:
-      label: Forum
-      description: Only required if it changed.
-      placeholder: https://www.alfredforum.com/topic/nnnn-name
   - type: textarea
     attributes:
       label: Notes
-      placeholder: Details not covered by the other fields.
+      placeholder: Changes to the website address, decription, or other information.
