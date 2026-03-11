@@ -17,7 +17,6 @@ Use multiple strings, or label/projects to refine search. Use `@` to enter one o
 * <kbd>⌥</kbd><kbd>↩</kbd> Edit task.
 * <kbd>^</kbd><kbd>⌥</kbd><kbd>⌘</kbd><kbd>↩</kbd> Delete task.
 
-
 ![Rescheduling task](images/reschedule.png)
 
 Create a new task via the `!!!` keyword or the Universal Action.
