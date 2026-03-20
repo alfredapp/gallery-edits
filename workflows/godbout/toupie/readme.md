@@ -4,7 +4,7 @@ Open your favorite websites from Alfred and let Apple Passwords prompt you for y
 
 ![Logins URLs in Alfred](images/alfred.png)
 
-<kbd>↩</kbd> Open the site Login in your default browser
+<kbd>↩</kbd> Open the site Login in your default browser.
 
 ![browser](images/browser.png)
 
