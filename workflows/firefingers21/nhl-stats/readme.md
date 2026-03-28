@@ -1,6 +1,6 @@
 ## Usage
 
-View the latest [NHL](https://www.nhl.com/) standings via the `nhl` keyword. Type to filter by Team, Ranking, Division, Conference, or Wildcard.
+View the latest [NHL](https://www.nhl.com/) standings via the `nhl` keyword. Type to filter by Team, Ranking, Division, Conference, Clinch, or Wildcard.
 
 ![Using the nhl keyword](images/keyword.png)
 
