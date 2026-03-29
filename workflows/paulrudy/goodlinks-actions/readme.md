@@ -1,3 +1,9 @@
+## Setup
+
+GoodLinks version 3.2 or later is required for this workflow.
+
+In GoodLinks, go to Settings > API, and enable API Server. Add the values for "Address" and "API Token" to the corresponding fields in the [Workflow's Configuration](https://www.alfredapp.com/help/workflows/user-configuration/).
+
 ## Usage
 
 ### Add URL to GoodLinks
@@ -35,22 +41,10 @@ Search for a tag via the `glt` keyword.
 
 ![glt keyword](images/glt-keyword.png)
 
-To get links with a specific tag, action the result, or enter a tag name via the `glwt` keyword.
-
-![glwt keyword](images/glwt-keyword.png)
+Action the result to get links with the selected tag.
 
 * <kbd>↩︎</kbd> Open the link in GoodLinks.
 * <kbd>⌥</kbd><kbd>↩︎</kbd> Copy the link to the clipboard.
 * <kbd>⌘</kbd> View the link’s starred status, read/unread status, and tags, if any. These can be changed in the Workflow’s Configuration.
 * <kbd>⌃</kbd> Show the link’s URL.
 * <kbd>⌘</kbd><kbd>L</kbd> Show a Large Type preview of the link’s title, and summary if available.
-
-### Cached Workflow Data
-
-Delete the workflow’s caches via the `:glflush` keyword.
-
-![:glflush keyword](images/glflush-keyword.png)
-
-Afterwards, adding a URL or invoking a search will rebuild the cache with updated data from GoodLinks.
-
-By default, the workflow caches GoodLinks data for 3600 seconds (1 hour). Caches are rebuilt any time a URL is added via the workflow, or when initiating a search on an expired cache.
