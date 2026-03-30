@@ -1,6 +1,6 @@
 ## Setup
 
-Enable the API Server in GoodLinks’ settings. Add the values for `Address` and `API Token` to the corresponding fields in the [Workflow’s Configuration](https://www.alfredapp.com/help/workflows/user-configuration/).
+Enable the API Server in GoodLinks’ settings. Add the values for `Address` and `API Token` to the corresponding fields in the Workflow’s Configuration.
 
 ## Usage
 
