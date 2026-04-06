@@ -23,11 +23,11 @@ Search your Zen history via the `bh` keyword. History entries are searchable by 
 * <kbd>⌘</kbd><kbd>↩</kbd> Open entry in secondary browser.
 * <kbd>⌘</kbd><kbd>L</kbd> View full Date and URL in Large Type.
 
-The Zen Twilight build is also supported. The Workflow's icon colours, bookmarks, and history will change based on the [configured](https://www.alfredapp.com/help/workflows/user-configuration/) Release Channel.
+The Zen Twilight build is also supported. The Workflow's icon colours, bookmarks, and history will change based on the configured Release Channel.
 
 ![Searching for Zen bookmarks using Nightly](images/otherBuilds.png)
 
-Append `::` to the configured [Keyword](https://www.alfredapp.com/help/workflows/inputs/keyword) to access other actions, including opening the [Zen Profile Manager](https://support.mozilla.org/kb/profile-manager-create-remove-switch-firefox-profiles). Bookmarks and history are only indexed from the default profile, which can be changed from the Profile Manager in each Zen build.
+Append `::` to the configured Keyword to access other actions, including opening the [Zen Profile Manager](https://support.mozilla.org/kb/profile-manager-create-remove-switch-firefox-profiles). Bookmarks and history are only indexed from the default profile, which can be changed from the Profile Manager in each Zen build.
 
 ![Other actions](images/inlineSettings.png)
 
