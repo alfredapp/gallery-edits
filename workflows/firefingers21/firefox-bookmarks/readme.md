@@ -23,7 +23,7 @@ Search your Firefox history via the `bh` keyword. History entries are searchable
 * <kbd>⌘</kbd><kbd>↩</kbd> Open entry in secondary browser.
 * <kbd>⌘</kbd><kbd>L</kbd> View full Date and URL in Large Type.
 
-Firefox Developer Edition and Nightly builds are also supported. The Workflow's icon colours, bookmarks, and history will change based on the [configured](https://www.alfredapp.com/help/workflows/user-configuration/) Release Channel.
+Firefox Developer Edition and Nightly builds are also supported. The Workflow's icon colours, bookmarks, and history will change based on the configured Release Channel.
 
 ![Searching for Firefox bookmarks using Nightly](images/otherBuilds.png)
 
