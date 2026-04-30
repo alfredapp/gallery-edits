@@ -20,7 +20,8 @@ On the last step, the result is copied to the clipboard and pasted into the fron
 
 ![Showing last step](images/done.png)
 
-Language can be set:
-* In the workflow configuration.
+Language can also be set:
+
+* In the Workflow’s Configuration.
 * By holding <kbd>⌘</kbd> (command) when invoking.
 * At the bottom of the word list.
