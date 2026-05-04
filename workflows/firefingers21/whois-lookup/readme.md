@@ -13,7 +13,7 @@ Autocomplete previous lookups by pressing tab or selecting from the search sugge
 
 When viewing a WHOIS response, the Text View can selectively summarize key information before showing the raw data, configurable from the Workflow's Configuration.
 
-![Querying alfredapp.com with summary](images/TextView.png)
+![Querying alfredapp.com with summary](images/textView.png)
 
 * <kbd>⌘</kbd><kbd>↩</kbd> Open raw WHOIS data in a text file.
 * <kbd>⌥</kbd><kbd>↩</kbd> Refresh WHOIS data (Lookups are cached for 6 hours).
