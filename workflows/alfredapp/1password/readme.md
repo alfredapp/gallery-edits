@@ -24,4 +24,4 @@ Uncommon but useful actions, such as toggling vaults, can be accessed with `:1pe
 
 A Fallback Search is included.
 
-To report a problem, run `!1pdiagnostic`.
+To report a problem, run `:1pdiagnostic`.
