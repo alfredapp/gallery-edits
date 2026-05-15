@@ -20,4 +20,4 @@ The Universal Actions make it straightforward to copy and move files to a Google
 
 ![File Actions for Google Drive copy and move](images/fileaction.png)
 
-To report a problem, run `!gddiagnostic`.
+To report a problem, run `:gddiagnostic`.
