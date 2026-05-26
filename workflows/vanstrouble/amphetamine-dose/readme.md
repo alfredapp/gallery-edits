@@ -2,7 +2,7 @@
 
 Turn Amphetamine on or off via the `dose` keyword.
 
-![Turning on](images/dose.png)
+![Turning on](images/dose-keyword.png)
 
 * <kbd>↩</kbd> Toggle on or off.
 * <kbd>⌘</kbd><kbd>↩</kbd> Toggle and allow display sleep.
