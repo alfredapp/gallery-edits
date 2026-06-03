@@ -23,10 +23,12 @@ Give `i` as the argument to keep awake indefinitely.
 
 ![Turning on indefinitely](images/ams-i.png)
 
-Give `s` as the argument to check session status.
+Give `d` as the argument to stop the current session.
+
+![Deactivate active session](images/ams-d.png)
+
+Give `s` as the argument to check out the session details, including time left and whether display sleep is allowed.
 
 ![Checking status](images/ams-s.png)
 
-Give `d` as the argument to stop the current session.
-
-![Checking status](images/ams-d.png)
+Configure the Hotkeys for faster triggering. Define the time format in the Workflow’s Configuration.
