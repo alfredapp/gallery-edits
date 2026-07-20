@@ -6,6 +6,7 @@ View the latest [Premier League](https://www.premierleague.com) standings via th
 
 * <kbd>↩</kbd> View Team Stats in Alfred.
 * <kbd>⌘</kbd><kbd>↩</kbd> Open Team Stats in Browser.
+* <kbd>⇧</kbd><kbd>⌘</kbd><kbd>↩</kbd> Set/Unset Favourite Team.
 
 Additional Team Stats can be viewed directly within Alfred. This includes Attack, Defence, Possession, Physical, and Discipline Stats.
 
