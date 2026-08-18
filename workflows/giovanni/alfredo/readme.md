@@ -22,3 +22,5 @@ Use multiple strings, or label/projects to refine search. Use `@` to enter one o
 Create a new task via the `!!!` keyword or the Universal Action.
 
 ![Universal Action to add new task](images/ua.png)
+
+Refresh the task database at intervals set in the Workflow’s Configuration, or manually via the `todoist::refresh` keyword.
