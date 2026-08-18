@@ -23,4 +23,4 @@ Create a new task via the `!!!` keyword or the Universal Action.
 
 ![Universal Action to add new task](images/ua.png)
 
-Refresh the task database at intervals set in the Workflow’s configuration, or manually via the `todoist::refresh` keyword.
+Refresh the task database at intervals set in the Workflow’s Configuration, or manually via the `todoist::refresh` keyword.
