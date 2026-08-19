@@ -5,7 +5,7 @@ Search for Michelin restaurants by name, location, cuisine, or distinction via t
 ![Showing basic search](images/basic_search.png)
 
 * <kbd>↩</kbd> Open restaurant website.
-* <kbd>^</kbd><kbd>↩</kbd> Add or remove from favorites.
+* <kbd>⌃</kbd><kbd>↩</kbd> Add or remove from favorites.
 * <kbd>⌘</kbd><kbd>↩</kbd> View award history.
 * <kbd>⌥</kbd><kbd>↩</kbd> Add or remove from visited.
 * <kbd>⇧</kbd><kbd>↩︎</kbd> Show more details.
