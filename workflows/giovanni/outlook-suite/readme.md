@@ -14,7 +14,7 @@ Interact with Microsoft Outlook emails via the workflow’s keywords:
 ![Searching email](images/olk.png)
 
 * <kbd>↩</kbd> Open email in Outlook.
-* <kbd>^</kbd><kbd>↩</kbd> Show all the messages in the thread.
+* <kbd>⌃</kbd><kbd>↩</kbd> Show all the messages in the thread.
 * <kbd>⇧</kbd><kbd>↩</kbd> Show message in Large Type and copy to clipboard.
 
 ### Advanced search
