@@ -12,7 +12,7 @@ Perform full-text search across your Zotero database, including only searching s
 * <kbd>⌘</kbd><kbd>↩</kbd> Copy citation.
 * <kbd>⌥</kbd><kbd>↩</kbd> Copy bibliography-style citation.
 * <kbd>⇧</kbd><kbd>↩</kbd> View entry attachments, if present.
-* <kbd>^</kbd><kbd>↩</kbd> View all citation styles.
+* <kbd>⌃</kbd><kbd>↩</kbd> View all citation styles.
 
 ---
 

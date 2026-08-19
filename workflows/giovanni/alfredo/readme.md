@@ -13,9 +13,9 @@ Use multiple strings, or label/projects to refine search. Use `@` to enter one o
 
 * <kbd>↩</kbd> Open task on Todoist’s website or app. Customisable in the Workflow’s Configuration.
 * <kbd>⇧</kbd><kbd>↩</kbd> Mark task as complete.
-* <kbd>^</kbd><kbd>↩</kbd> Reschedule task.
+* <kbd>⌃</kbd><kbd>↩</kbd> Reschedule task.
 * <kbd>⌥</kbd><kbd>↩</kbd> Edit task.
-* <kbd>^</kbd><kbd>⌥</kbd><kbd>⌘</kbd><kbd>↩</kbd> Delete task.
+* <kbd>⌃</kbd><kbd>⌥</kbd><kbd>⌘</kbd><kbd>↩</kbd> Delete task.
 
 ![Rescheduling task](images/reschedule.png)
 
