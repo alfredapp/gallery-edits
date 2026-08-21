@@ -7,6 +7,7 @@ View the latest [MLS](https://www.mlssoccer.com) standings via the `mls` keyword
 * <kbd>↩</kbd> View Team Stats.
 * <kbd>⌥</kbd><kbd>↩</kbd> Rank teams by Conference.
 * <kbd>⌃</kbd><kbd>↩</kbd> Rank teams by League.
+* <kbd>⇧</kbd><kbd>⌘</kbd><kbd>↩</kbd> Set/Unset Favourite Team.
 
 Additional Team Stats can be viewed directly within Alfred. This includes General, Passing, Attacking, and Defending Stats.
 
