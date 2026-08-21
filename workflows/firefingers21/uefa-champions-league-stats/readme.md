@@ -6,6 +6,7 @@ View the latest [UEFA Champions League](https://www.uefa.com/uefachampionsleague
 
 * <kbd>↩</kbd> View Team Stats in Alfred.
 * <kbd>⌘</kbd><kbd>↩</kbd> Open Team Stats in Browser.
+* <kbd>⇧</kbd><kbd>⌘</kbd><kbd>↩</kbd> Set/Unset Favourite Team.
 
 Additional Team Stats can be viewed directly within Alfred. This includes Goals, Attempts, Distribution, Attacking, Defending, Goalkeeping, and Disciplinary Stats.
 
