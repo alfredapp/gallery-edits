@@ -8,6 +8,7 @@ View the latest [MLB](https://www.mlb.com) standings via the `mlb` keyword. Type
 * <kbd>⌘</kbd><kbd>↩</kbd> Rank teams by Division.
 * <kbd>⌥</kbd><kbd>↩</kbd> Rank teams by League.
 * <kbd>⌃</kbd><kbd>↩</kbd> Rank teams by Sport.
+* <kbd>⇧</kbd><kbd>⌘</kbd><kbd>↩</kbd> Set/Unset Favourite Team.
 
 Additional Team Stats can be viewed directly within Alfred. This includes Hitting and Pitching Stats.
 
