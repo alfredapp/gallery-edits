@@ -27,7 +27,7 @@ Search highlights, Reader documents, or both, as set in the Workflow’s Configu
 
 `!rfav` opens a report on your starred highlights, covering authors, sources, length, and timeline, each measured against the rest of your library. `!rstats` shows the same report for your whole library.
 
-![Favorites report](images/favorites.png)
+![Library report](images/library.png)
 
 * <kbd>↩</kbd> Open the full report as an HTML page.
 * <kbd>⌘</kbd><kbd>↩</kbd> Copy the summary.
