@@ -1,6 +1,6 @@
 ## Usage
 
-Search for emojis via the `emoji` keyword.
+Search for emoji via the `emoji` keyword.
 
 ![Emoji Search](images/emoji.png)
 
@@ -9,7 +9,7 @@ Search for emojis via the `emoji` keyword.
 * <kbd>↩</kbd> Paste the emoji to the frontmost app.
 * <kbd>⌘</kbd><kbd>C</kbd> Copy the emoji to the clipboard.
 
-Select between `List View` or `Grid View` in the Workflow’s Configuration.
+Choose between the List View or Grid View in the Workflow’s Configuration.
 
 ![Emoji Grid View](images/emoji-grid.png)
 
