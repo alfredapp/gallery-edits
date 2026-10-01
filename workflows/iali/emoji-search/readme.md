@@ -6,8 +6,8 @@ Search for emojis via the `emoji` keyword.
 
 ![Emoji List View](images/emoji-list.png)
 
-* <kbd>↩</kbd>: Paste the emoji to the frontmost app.
-* <kbd>⌘</kbd><kbd>C</kbd>: Copy the emoji to the clipboard.
+* <kbd>↩</kbd> Paste the emoji to the frontmost app.
+* <kbd>⌘</kbd><kbd>C</kbd> Copy the emoji to the clipboard.
 
 Select between `List View` or `Grid View` in the Workflow’s Configuration.
 
