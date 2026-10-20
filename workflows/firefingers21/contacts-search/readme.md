@@ -7,7 +7,7 @@ Search Contacts details via the `cs` keyword. Type to filter.
 * <kbd>↩</kbd> View Contact card.
 * <kbd>⌘</kbd><kbd>↩</kbd> Open Contact card in Contacts app.
 
-Contacts are always searchable by Full Name and Nickname, while searching by Job Title, Organization, Phone Number, Email Address, Street Address, and Notes is configurable from the Workflow’s Configuration.
+Contacts are always searchable by Full Name and Nickname, while searching by Job Title, Organization, Phone Numbers, Email Addresses, Street Addresses, and Notes is configurable from the Workflow’s Configuration.
 
 ![Filtering Contacts results](images/filter.png)
 
