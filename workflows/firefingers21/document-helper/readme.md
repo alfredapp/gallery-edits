@@ -10,7 +10,7 @@ Type to filter. Results are searchable by Name, Document Type, and Office Suite.
 
 ![Filtering app results by office suite](images/newSuite.png)
 
-Export iWork and Microsoft 365 documents to a new format via the `export` keyword. Documents must occupy the frontmost window of your screen.
+Export Creator Studio and Microsoft 365 documents to a new format via the `export` keyword. Documents must occupy the frontmost window of your screen.
 
 ![Using the "export" keyword on a Pages document](images/export.png)
 
