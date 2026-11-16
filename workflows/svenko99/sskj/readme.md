@@ -29,5 +29,3 @@ Get live word suggestions with `iskanje`. Press <kbd>⇥</kbd> to autocomplete a
 * <kbd>⌘</kbd><kbd>↩</kbd> Show synonyms.
 * <kbd>⌃</kbd><kbd>↩</kbd> Show word data.
 * <kbd>⌥</kbd><kbd>↩</kbd> Open the word on Fran.
-
-In definitions, synonyms, and word data, <kbd>⇧</kbd> opens a Quick Look preview and <kbd>⌘</kbd><kbd>L</kbd> shows the full text in Large Type.
