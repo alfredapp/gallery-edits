@@ -1,21 +1,33 @@
 ## Usage
 
-Search Slovenian word definitions from [Fran](https://fran.si) via the `sskj` keyword.
+Look up the definitions of a word from [Fran](https://fran.si) via the `sskj` keyword.
 
 ![Searching dictionary](images/dictionary.png)
 
-Search the Sinonimi [thesaurus](https://sinonimi.si) with the `sinonim` keyword.
+* <kbd>↩</kbd> Copy the definition.
+* <kbd>⌥</kbd><kbd>↩</kbd> Open the word on Fran.
+
+Look up the synonyms of a word from Fran's synonym dictionary via the `sinonim` keyword.
 
 ![Searching thesaurus](images/thesaurus.png)
 
-Look up word data from [Sloleks](https://viri.cjvt.si/sloleks/slv/) via the `podatki` keyword.
+* <kbd>↩</kbd> Copy the synonym.
+* <kbd>⌥</kbd><kbd>↩</kbd> Open the word in the synonym dictionary on Fran.
+
+Look up the word type and gender from [Sloleks](https://viri.cjvt.si/sloleks/slv/) via the `podatki` keyword. Every matching entry is listed.
 
 ![Looking up word data](images/worddata.png)
 
-Get live word suggestions with `iskanje`.
+* <kbd>↩</kbd> Copy the word data.
+* <kbd>⌥</kbd><kbd>↩</kbd> Open the entry on Sloleks.
+
+Get live word suggestions with `iskanje`. Press <kbd>⇥</kbd> to autocomplete a suggestion.
 
 ![Live suggestions](images/suggestions.png)
 
-* <kbd>↩</kbd> Open in dictionary search.
-* <kbd>⌘</kbd><kbd>↩</kbd> Open in thesaurus search.
-* <kbd>⌥</kbd><kbd>↩</kbd> Open in web browser.
+* <kbd>↩</kbd> Show definitions.
+* <kbd>⌘</kbd><kbd>↩</kbd> Show synonyms.
+* <kbd>⌃</kbd><kbd>↩</kbd> Show word data.
+* <kbd>⌥</kbd><kbd>↩</kbd> Open the word on Fran.
+
+In definitions, synonyms, and word data, <kbd>⇧</kbd> opens a Quick Look preview and <kbd>⌘</kbd><kbd>L</kbd> shows the full text in Large Type.
