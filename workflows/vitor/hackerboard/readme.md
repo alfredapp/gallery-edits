@@ -14,4 +14,19 @@ Previous shortcuts apply, plus <kbd>⌘</kbd><kbd>↩</kbd> switches between ord
 
 Submit the frontmost browser tab with the `hnsubmit` keyword.
 
-![Submit to Hacker News](images/hnsubmit.png)
+![Keyword to submit to Hacker News](images/hnsubmitkeyword.png)
+
+![Showing website to submit](images/submitweb.png)
+
+* <kbd>↩</kbd> Submit (when a text field is focused).
+* <kbd>⌘</kbd><kbd>↩</kbd> Submit (when the webview is focused).
+* <kbd>⌘</kbd><kbd>P</kbd> Focus title field.
+* <kbd>⌘</kbd><kbd>L</kbd> Focus URL field.
+
+![Showing Hacker News submission interface](images/submithn.png)
+
+<kbd>⌘</kbd><kbd>O</kbd> Open current page in web browser.
+
+Alternatively, submit a URL via the Universal Action.
+
+![Universal Action to submit to Hacker News](images/hnsubmitua.png)
