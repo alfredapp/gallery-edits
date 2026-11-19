@@ -4,7 +4,7 @@ Perform a [WHOIS](https://en.wikipedia.org/wiki/WHOIS) lookup via the `whois` ke
 
 ![Using the whois keyword](images/keyword.png)
 
-* <kbd>↩</kbd> View WHOIS data in Alfred's Text View.
+* <kbd>↩</kbd> View WHOIS data in Alfred’s Text View.
 * <kbd>⌘</kbd><kbd>↩</kbd> View raw WHOIS data in a text file.
 
 Autocomplete previous lookups by pressing tab or selecting from the search suggestions. By default, the first suggestion can be tab-completed.
