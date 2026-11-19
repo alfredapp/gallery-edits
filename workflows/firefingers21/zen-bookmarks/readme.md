@@ -33,4 +33,5 @@ Append `::` to the configured Keyword to access other actions, including opening
 
 Configure the Hotkeys as shortcuts for searching your bookmarks and history.
 
-Bookmarks with the tag `Exclude-Alfred` will be hidden from search. This tag is case sensitive.
+> [!TIP]
+> Bookmarks with the tag `Exclude-Alfred` will be hidden from search. This tag is case sensitive.
