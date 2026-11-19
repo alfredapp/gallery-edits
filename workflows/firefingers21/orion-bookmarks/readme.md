@@ -30,4 +30,5 @@ Append `::` to the configured Keywords to access other actions, including openin
 
 Configure the Hotkeys as shortcuts for searching your bookmarks and history.
 
-Bookmarks in a folder named `Exclude-Alfred` will be hidden from search. This folder is case sensitive.
+> [!TIP]
+> Bookmarks in a folder named `Exclude-Alfred` will be hidden from search. This folder is case sensitive.
