@@ -14,4 +14,4 @@ Alternatively, launch the UI prepopulated with any selected text or from the Cli
 
 Configure the Hotkey for faster triggering.
 
-The editor is prepopulated with either your input, clipboard, or last editor session (in that order) if any of them parse as JSON, or otherwise a default template.
+The editor is prepopulated with either your input, clipboard, last editor session, or template (in that order) if any of them parse as JSON.
