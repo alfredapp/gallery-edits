@@ -1,45 +1,73 @@
 ## Setup
 
-Start the workflow with the `plex` keyword and choose `Plex Accounts` → `Connect a new plex account`. Sign in.
+Launch the workflow via the `plex` keyword and choose **Sign in with Plex**. Sign in on the page that opens in your browser: your servers are added automatically.
 
-![Adding new account](images/account.png)
+![Signing in to Plex](images/signin.png)
 
 ## Usage
 
-Launch the workflow via the `plex` keyword.
+Browse and manage your Plex Media Servers via the `plex` keyword.
 
-![Showing all options](images/plex.png)
+![Showing all options](images/menu.png)
+
+Every page has a **Return** row to go back to the previous page. <kbd>⌘</kbd><kbd>↩</kbd> on it goes back to the main menu.
 
 ### Plex Search
 
-Search media within your server. Type a name and optionally its type separated by a `/`. Use the available filters and fields to search with greater precision.
+Search media throughout your servers. Type a title, optionally followed by `/` and a type (`/movie`, `/show`, `/actor`…), or use filters for precise searches (`libtype=movie/decade=1920`).
 
-![Searching for Big Buck Bunny](images/bigbuck.png)
+![Searching for movies](images/search.png)
 
-![Searching Fandango](images/fandango.png)
+* <kbd>↩</kbd> Show the content of the media (show, season, album, actor…), otherwise its actions.
+* <kbd>fn</kbd><kbd>↩</kbd> Show the media actions.
+* <kbd>⌘</kbd><kbd>↩</kbd> Open in Plex Web.
+* <kbd>⌥</kbd><kbd>↩</kbd> Stream with VLC, IINA or Infuse.
+* <kbd>⌃</kbd><kbd>↩</kbd> Open in [Movie and TV Show Search](https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/).
+* <kbd>⇧</kbd><kbd>↩</kbd> Add to or remove from the watchlist.
+* <kbd>⌘</kbd><kbd>⇧</kbd><kbd>↩</kbd> Mark as played or unplayed.
 
-* <kbd>↩</kbd> Display the child element of the media (show, season, actor, director, artist, album, genre).
-* <kbd>⌘</kbd><kbd>↩</kbd> Open the media on the web (excluding genre).
-* <kbd>⌥</kbd><kbd>↩</kbd> Stream the media locally (movie, episode, clip, track, album).
-* <kbd>⌃</kbd><kbd>↩</kbd> Open the media using [Movie and TV Show Search](https://alfred.app/workflows/tmcknight/movie-and-tv-show-search/) (show, movie).
-* <kbd>⇧</kbd><kbd>↩</kbd> Add or remove the media from the watchlist.
+Modifier keys can be changed in the Workflow’s Configuration.
 
-### Plex Presets
+With an empty query, Plex Search lists your libraries. Sort and filter them by picking from lists.
 
-Manage presets for quick searches.
+![Browsing a library](images/library.png)
 
-![Showing presets](images/presets.png)
+Show libraries and results as posters in a grid. In the Workflow’s Configuration you can also add posters to the lists, or show the results as a grid.
 
-![Showing preset filtering](images/filter.png)
+![Showing posters in a grid](images/grid.png)
+
+### Media Actions
+
+Play, mark as played, rate, add to the watchlist, playlists or collections, check the files and download them from the media actions.
+
+![Showing media actions](images/media.png)
+
+**Full details** shows the poster, summary, ratings, cast, crew and files. Show the full details of a media via the Universal Action.
+
+![Showing full details](images/details.png)
+
+### Plex Discover
+
+Search movies, shows and people on Plex Discover and add them to your watchlist.
+
+### Plex Accounts
+
+Manage your accounts, users and devices, and clean up old devices.
 
 ### Plex Media Servers
 
-Register and manage your Plex servers.
+Follow sessions, recently added media, statistics and activities. Change the settings and run maintenance tasks on your servers.
 
-![Managing server](images/manage.png)
+![Managing a server](images/server.png)
+
+### Plex Presets
+
+Save searches to run them again in one step. The last row of Plex Search saves the current search.
+
+![Showing presets](images/presets.png)
 
 ### Plex Help
 
-Configure the workflow and access filter and sort options.
+Get started, check your keyboard shortcuts, filters, sorts and alias, and manage the cache and logs.
 
-![Help](images/help.png)
+Long actions (exports, downloads, sign in) and errors end with a notification, which can be turned off in the Workflow’s Configuration.
