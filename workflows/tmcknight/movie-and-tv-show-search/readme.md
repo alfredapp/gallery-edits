@@ -13,7 +13,7 @@ Search for movies and TV shows via the `movie` and `tv` keywords. Results show t
 * <kbd>⌘</kbd><kbd>C</kbd> Copy the TMDb, IMDb or TheTVDB id.
 * <kbd>↩</kbd> on the title row: Open the details window.
 
-![Alfred details window for WALL·E](images/walle-window.png)
+![Alfred details window for WALL-E](images/walle-window.png)
 
 * <kbd>⌘</kbd><kbd>↩</kbd> Open the ratings and links.
 * <kbd>⎋</kbd> / <kbd>←</kbd> / <kbd>⌫</kbd> Go back to the details.
