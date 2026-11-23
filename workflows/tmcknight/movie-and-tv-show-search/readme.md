@@ -15,9 +15,9 @@ Search for movies and TV shows via the `movie` and `tv` keywords. Results show t
 
 ![Alfred details window for WALL·E](images/walle-window.png)
 
-* <kbd>⌘</kbd><kbd>1</kbd> to <kbd>⌘</kbd><kbd>9</kbd> Open the ratings and links.
-* <kbd>⎋</kbd>, <kbd>←</kbd> or <kbd>⌫</kbd> Go back to the details.
+* <kbd>⌘</kbd><kbd>↩</kbd> Open the ratings and links.
+* <kbd>⎋</kbd> / <kbd>←</kbd> / <kbd>⌫</kbd> Go back to the details.
 
-Trailers open on YouTube, or in their own window with **Play trailers in Alfred** turned on in the [Workflow Configuration](https://www.alfredapp.com/help/workflows/user-configuration/).
+Trailers open on YouTube, or in their own window with `Play trailers in Alfred` turned on in the Workflow’s Configuration.
 
 Supported services include [IMDB](https://www.imdb.com), [Rotten Tomatoes](https://www.rottentomatoes.com), [Metacritic](https://www.metacritic.com), [Letterboxd](https://letterboxd.com), [MovieChat](https://moviechat.org), [JustWatch](https://www.justwatch.com), and [Simkl](https://simkl.com).
